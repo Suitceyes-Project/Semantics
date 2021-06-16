@@ -1,0 +1,672 @@
+@prefix : <http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#> .
+@prefix dem: <http://www.demcare.eu/ontologies/event.owl#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix sot: <http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix demlab: <http://www.demcare.eu/ontologies/demlab.owl#> .
+@base <http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox> .
+
+<http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox> rdf:type owl:Ontology ;
+                                                                 owl:imports <http://www.demcare.eu/ontologies/event.owl> ,
+                                                                             <https://w3id.org/seas/BuildingOntology> ;
+                                                                 owl:versionInfo "Created with TopBraid Composer" .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#definesSpatialRelationWith
+sot:definesSpatialRelationWith rdf:type owl:ObjectProperty ;
+                               rdfs:domain sot:SpatialContext ;
+                               rdfs:range [ rdf:type owl:Class ;
+                                            owl:unionOf ( sot:SemanticSpace
+                                                          sot:SpatialEntity
+                                                        )
+                                          ] .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#detects
+sot:detects rdf:type owl:ObjectProperty ;
+            rdfs:domain sot:Detection ;
+            rdfs:range [ rdf:type owl:Class ;
+                         owl:unionOf ( sot:Activity
+                                       sot:SemanticSpace
+                                       sot:SpatialEntity
+                                     )
+                       ] .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#detectsActivity
+sot:detectsActivity rdf:type owl:ObjectProperty ;
+                    rdfs:subPropertyOf sot:detects ;
+                    rdfs:domain sot:Detection ;
+                    rdfs:range sot:Activity ,
+                               dem:Activity .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#detectsObject
+sot:detectsObject rdf:type owl:ObjectProperty ;
+                  rdfs:subPropertyOf sot:detects ;
+                  rdfs:domain sot:Detection ;
+                  rdfs:range sot:Object ,
+                             dem:Object .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#detectsPerson
+sot:detectsPerson rdf:type owl:ObjectProperty ;
+                  rdfs:subPropertyOf sot:detects ;
+                  rdfs:domain sot:Detection ;
+                  rdfs:range sot:Person .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#detectsSemanticSpace
+sot:detectsSemanticSpace rdf:type owl:ObjectProperty ;
+                         rdfs:subPropertyOf sot:detects ;
+                         rdfs:domain sot:Detection ;
+                         rdfs:range sot:SemanticSpace .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#hasLocation
+sot:hasLocation rdf:type owl:ObjectProperty ;
+                rdfs:domain sot:Detection ;
+                rdfs:range sot:Location .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#hasOccupiedArea
+sot:hasOccupiedArea rdf:type owl:ObjectProperty ;
+                    rdfs:subPropertyOf sot:locatedInGridSpace ;
+                    rdfs:domain sot:SpatialEntity ;
+                    rdfs:range sot:OccupiedArea .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#hasSpatialContext
+sot:hasSpatialContext rdf:type owl:ObjectProperty ;
+                      rdfs:domain [ rdf:type owl:Class ;
+                                    owl:unionOf ( sot:SemanticSpace
+                                                  sot:SpatialEntity
+                                                )
+                                  ] ;
+                      rdfs:range sot:SpatialContext .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#hasXGridSpace
+sot:hasXGridSpace rdf:type owl:ObjectProperty ;
+                  rdfs:subPropertyOf sot:locatedInGridSpace ;
+                  rdfs:domain sot:SpatialEntity ;
+                  rdfs:range sot:XGridSpace .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#involves
+sot:involves rdf:type owl:ObjectProperty ;
+             rdfs:domain sot:Activity ,
+                         dem:Activity ;
+             rdfs:range sot:SpatialEntity .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#involvesObject
+sot:involvesObject rdf:type owl:ObjectProperty ;
+                   rdfs:subPropertyOf sot:involves ;
+                   rdfs:domain sot:Activity ,
+                               dem:Activity ;
+                   rdfs:range sot:Object ,
+                              dem:Object .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#involvesPerson
+sot:involvesPerson rdf:type owl:ObjectProperty ;
+                   rdfs:subPropertyOf sot:involves ;
+                   rdfs:domain sot:Activity ,
+                               dem:Activity ;
+                   rdfs:range sot:Person .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#locatedInGridSpace
+sot:locatedInGridSpace rdf:type owl:ObjectProperty ;
+                       rdfs:subPropertyOf sot:locatedInSpace ;
+                       rdfs:domain [ rdf:type owl:Class ;
+                                     owl:unionOf ( sot:Detection
+                                                   sot:SpatialEntity
+                                                 )
+                                   ] ;
+                       rdfs:range sot:GridSpace .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#locatedInSemanticSpace
+sot:locatedInSemanticSpace rdf:type owl:ObjectProperty ;
+                           rdfs:subPropertyOf sot:locatedInSpace ;
+                           rdfs:domain sot:SpatialEntity ;
+                           rdfs:range sot:SemanticSpace .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#locatedInSpace
+sot:locatedInSpace rdf:type owl:ObjectProperty ;
+                   rdfs:domain sot:SpatialEntity ;
+                   rdfs:range sot:Space .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#producesOutput
+sot:producesOutput rdf:type owl:ObjectProperty ;
+                   rdfs:domain sot:Detection ;
+                   rdfs:range sot:Output .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#providedBy
+sot:providedBy rdf:type owl:ObjectProperty ;
+               rdfs:domain sot:Detection ;
+               rdfs:range sot:Sensor .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#refersTo
+sot:refersTo rdf:type owl:ObjectProperty ;
+             rdfs:domain sot:Output .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#refersToActivity
+sot:refersToActivity rdf:type owl:ObjectProperty ;
+                     rdfs:subPropertyOf sot:refersTo ;
+                     rdfs:domain sot:Output ;
+                     rdfs:range sot:Activity ,
+                                dem:Activity .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#refersToObject
+sot:refersToObject rdf:type owl:ObjectProperty ;
+                   rdfs:subPropertyOf sot:refersTo ;
+                   rdfs:domain sot:Output ;
+                   rdfs:range sot:Object ,
+                              dem:Object .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#refersToPerson
+sot:refersToPerson rdf:type owl:ObjectProperty ;
+                   rdfs:subPropertyOf sot:refersTo ;
+                   rdfs:domain sot:Output ;
+                   rdfs:range sot:Person ,
+                              dem:Person ,
+                              <http://xmlns.com/foaf/0.1/Person> .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#definesAbsoluteDistance
+sot:definesAbsoluteDistance rdf:type owl:DatatypeProperty ;
+                            rdfs:domain sot:SpatialContext ;
+                            rdfs:range xsd:float .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#definesAbsoluteDistanceClass
+sot:definesAbsoluteDistanceClass rdf:type owl:DatatypeProperty ;
+                                 rdfs:domain sot:SpatialContext ;
+                                 rdfs:range xsd:string .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#hasConfidence
+sot:hasConfidence rdf:type owl:DatatypeProperty ;
+                  rdfs:domain sot:Detection ;
+                  rdfs:range xsd:float .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#hasID
+sot:hasID rdf:type owl:DatatypeProperty ;
+          rdfs:domain sot:Sensor ;
+          rdfs:range xsd:integer .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#hasLatitude
+sot:hasLatitude rdf:type owl:DatatypeProperty ;
+                rdfs:domain sot:Location ;
+                rdfs:range xsd:float .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#hasLongitude
+sot:hasLongitude rdf:type owl:DatatypeProperty ;
+                 rdfs:domain sot:Location ;
+                 rdfs:range xsd:float .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#hasName
+sot:hasName rdf:type owl:DatatypeProperty ;
+            rdfs:domain sot:Sensor ;
+            rdfs:range xsd:string .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#hasTextualDescription
+sot:hasTextualDescription rdf:type owl:DatatypeProperty ;
+                          rdfs:domain sot:Output ;
+                          rdfs:range xsd:string .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#hasTimestamp
+sot:hasTimestamp rdf:type owl:DatatypeProperty ;
+                 rdfs:domain [ rdf:type owl:Class ;
+                               owl:unionOf ( sot:Context
+                                             sot:Detection
+                                             sot:Output
+                                           )
+                             ] ;
+                 rdfs:range xsd:dateTime .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#hasTotalNo
+sot:hasTotalNo rdf:type owl:DatatypeProperty ;
+               rdfs:domain [ rdf:type owl:Class ;
+                             owl:unionOf ( sot:Entity
+                                           sot:Object
+                                           sot:Person
+                                           sot:SpatialEntity
+                                         )
+                           ] ;
+               rdfs:range xsd:integer .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#height
+sot:height rdf:type owl:DatatypeProperty ;
+           rdfs:domain [ rdf:type owl:Class ;
+                         owl:unionOf ( sot:GridSpace
+                                       sot:OccupiedArea
+                                     )
+                       ] ;
+           rdfs:range xsd:integer .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#isDirectUser
+sot:isDirectUser rdf:type owl:DatatypeProperty ;
+                 rdfs:domain sot:Person ,
+                             <http://xmlns.com/foaf/0.1/Person> ;
+                 rdfs:range xsd:boolean .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#positionedInXGrid
+sot:positionedInXGrid rdf:type owl:DatatypeProperty ;
+                      rdfs:domain sot:XGridSpace ;
+                      rdfs:range [ rdf:type rdfs:Datatype ;
+                                   owl:oneOf [ rdf:type rdf:List ;
+                                               rdf:first "left" ;
+                                               rdf:rest [ rdf:type rdf:List ;
+                                                          rdf:first "middle" ;
+                                                          rdf:rest [ rdf:type rdf:List ;
+                                                                     rdf:first "right" ;
+                                                                     rdf:rest rdf:nil
+                                                                   ]
+                                                        ]
+                                             ]
+                                 ] .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#width
+sot:width rdf:type owl:DatatypeProperty ;
+          rdfs:domain [ rdf:type owl:Class ;
+                        owl:unionOf ( sot:GridSpace
+                                      sot:OccupiedArea
+                                    )
+                      ] ;
+          rdfs:range xsd:integer .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#xPosition
+sot:xPosition rdf:type owl:DatatypeProperty ;
+              rdfs:domain sot:OccupiedArea ;
+              rdfs:range xsd:integer .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#yPosition
+sot:yPosition rdf:type owl:DatatypeProperty ;
+              rdfs:domain sot:OccupiedArea ;
+              rdfs:range xsd:integer .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#AbsoluteDistanceSpatialContext
+sot:AbsoluteDistanceSpatialContext rdf:type owl:Class ;
+                                   rdfs:subClassOf sot:SpatialContext .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Activity
+sot:Activity rdf:type owl:Class ;
+             owl:equivalentClass dem:Activity .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#AlarmClock
+sot:AlarmClock rdf:type owl:Class ;
+               rdfs:subClassOf sot:Object .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Alert
+sot:Alert rdf:type owl:Class ;
+          rdfs:subClassOf sot:Output .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Book
+sot:Book rdf:type owl:Class ;
+         rdfs:subClassOf sot:Object .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Camera
+sot:Camera rdf:type owl:Class ;
+           rdfs:subClassOf sot:Sensor .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Chair
+sot:Chair rdf:type owl:Class ;
+          rdfs:subClassOf sot:Object .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#CloseSpatialContext
+sot:CloseSpatialContext rdf:type owl:Class ;
+                        rdfs:subClassOf sot:SpatialContext .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Computer
+sot:Computer rdf:type owl:Class ;
+             rdfs:subClassOf sot:Object ;
+             rdfs:label "computer" .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Context
+sot:Context rdf:type owl:Class .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Couch
+sot:Couch rdf:type owl:Class ;
+          rdfs:subClassOf sot:Object .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Detection
+sot:Detection rdf:type owl:Class ;
+              rdfs:subClassOf dem:Measurement ,
+                              owl:Thing .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Entity
+sot:Entity rdf:type owl:Class .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#FarSpatialContext
+sot:FarSpatialContext rdf:type owl:Class ;
+                      rdfs:subClassOf sot:SpatialContext .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Glass
+sot:Glass rdf:type owl:Class ;
+          rdfs:subClassOf sot:Object .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#GridSpace
+sot:GridSpace rdf:type owl:Class ;
+              rdfs:subClassOf sot:Space .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#InSpatialContext
+sot:InSpatialContext rdf:type owl:Class ;
+                     rdfs:subClassOf sot:SpatialContext .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Information
+sot:Information rdf:type owl:Class ;
+                rdfs:subClassOf sot:Output .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#KnownPerson
+sot:KnownPerson rdf:type owl:Class ;
+                rdfs:subClassOf sot:Person .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Laptop
+sot:Laptop rdf:type owl:Class ;
+           rdfs:subClassOf sot:Object ;
+           rdfs:label "laptop" .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#LeftSpatialContext
+sot:LeftSpatialContext rdf:type owl:Class ;
+                       rdfs:subClassOf sot:SpatialContext .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Location
+sot:Location rdf:type owl:Class ;
+             rdfs:subClassOf owl:Thing .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Mug
+sot:Mug rdf:type owl:Class ;
+        rdfs:subClassOf sot:Object .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Object
+sot:Object rdf:type owl:Class ;
+           owl:equivalentClass dem:Object ;
+           rdfs:subClassOf sot:SpatialEntity .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Obstacle
+sot:Obstacle rdf:type owl:Class .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#OccupiedArea
+sot:OccupiedArea rdf:type owl:Class ;
+                 rdfs:subClassOf sot:GridSpace .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#OnSpatialContext
+sot:OnSpatialContext rdf:type owl:Class ;
+                     rdfs:subClassOf sot:SpatialContext .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Output
+sot:Output rdf:type owl:Class ;
+           rdfs:subClassOf owl:Thing .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Person
+sot:Person rdf:type owl:Class ;
+           owl:equivalentClass dem:Person ,
+                               <http://xmlns.com/foaf/0.1/Person> ;
+           rdfs:subClassOf sot:SpatialEntity ,
+                           owl:Thing .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Plate
+sot:Plate rdf:type owl:Class ;
+          rdfs:subClassOf sot:Object .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#RightSpatialContext
+sot:RightSpatialContext rdf:type owl:Class ;
+                        rdfs:subClassOf sot:SpatialContext .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#SemanticSpace
+sot:SemanticSpace rdf:type owl:Class ;
+                  rdfs:subClassOf sot:Space .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Sensor
+sot:Sensor rdf:type owl:Class ;
+           rdfs:subClassOf owl:Thing .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Space
+sot:Space rdf:type owl:Class ;
+          rdfs:subClassOf owl:Thing .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#SpatialContext
+sot:SpatialContext rdf:type owl:Class ;
+                   rdfs:subClassOf sot:Context .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#SpatialEntity
+sot:SpatialEntity rdf:type owl:Class ;
+                  rdfs:subClassOf sot:Entity .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#TV
+sot:TV rdf:type owl:Class ;
+       rdfs:subClassOf sot:Object .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Table
+sot:Table rdf:type owl:Class ;
+          rdfs:subClassOf sot:Object .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Talking
+sot:Talking rdf:type owl:Class ;
+            owl:equivalentClass dem:FaceToFaceInteraction ;
+            rdfs:subClassOf sot:Activity .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Telephone
+sot:Telephone rdf:type owl:Class ;
+              rdfs:subClassOf sot:Object .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#TemporalContext
+sot:TemporalContext rdf:type owl:Class ;
+                    rdfs:subClassOf sot:Context .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#UnknownPerson
+sot:UnknownPerson rdf:type owl:Class ;
+                  rdfs:subClassOf sot:Person .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#Warning
+sot:Warning rdf:type owl:Class ;
+            rdfs:subClassOf sot:Output .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#XGridSpace
+sot:XGridSpace rdf:type owl:Class ;
+               rdfs:subClassOf sot:GridSpace .
+
+
+###  http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#iBeacon
+sot:iBeacon rdf:type owl:Class ;
+            rdfs:subClassOf sot:Sensor .
+
+
+###  http://www.demcare.eu/ontologies/event.owl#Activity
+
+###  http://www.demcare.eu/ontologies/event.owl#AtomicActivity
+dem:AtomicActivity rdfs:subClassOf sot:Activity .
+
+
+###  http://www.demcare.eu/ontologies/event.owl#ComplexActivity
+dem:ComplexActivity rdfs:subClassOf sot:Activity .
+
+
+###  http://www.demcare.eu/ontologies/event.owl#FaceToFaceInteraction
+
+###  http://www.demcare.eu/ontologies/event.owl#Object
+
+###  http://www.demcare.eu/ontologies/event.owl#Person
+dem:Person owl:equivalentClass <http://xmlns.com/foaf/0.1/Person> .
+
+
+###  http://xmlns.com/foaf/0.1/Person
+
+###  https://w3id.org/seas/Balcony
+<https://w3id.org/seas/Balcony> rdfs:subClassOf sot:SemanticSpace .
+
+
+###  https://w3id.org/seas/Door
+<https://w3id.org/seas/Door> rdfs:subClassOf sot:SemanticSpace .
+
+
+###  https://w3id.org/seas/Lobby
+<https://w3id.org/seas/Lobby> rdfs:subClassOf sot:SemanticSpace .
+
+
+###  https://w3id.org/seas/Room
+<https://w3id.org/seas/Room> rdfs:subClassOf sot:SemanticSpace .
+
+
+###  https://w3id.org/seas/Stairs
+<https://w3id.org/seas/Stairs> rdfs:subClassOf sot:SemanticSpace .
+
+
+###  https://w3id.org/seas/Wall
+<https://w3id.org/seas/Wall> rdfs:subClassOf sot:SemanticSpace .
+
+
+###  https://w3id.org/seas/Window
+<https://w3id.org/seas/Window> rdfs:subClassOf sot:SemanticSpace .
+
+
+#################################################################
+#    Annotations
+#################################################################
+
+dem:AlarmClock rdfs:label "alarm clock" .
+
+
+dem:Bed rdfs:label "bed" .
+
+
+dem:Book rdfs:label "book" .
+
+
+dem:Chair rdfs:label "chair" .
+
+
+dem:Couch rdfs:label "couch" .
+
+
+dem:Cup rdfs:label "cup" .
+
+
+dem:Door rdfs:label "door" .
+
+
+dem:Glass rdfs:label "glass" .
+
+
+dem:Plate rdfs:label "plate" .
+
+
+dem:RemoteControl rdfs:label "remote control" .
+
+
+dem:TV rdfs:label "tv" .
+
+
+dem:Table rdfs:label "table" .
+
+
+dem:Telephone rdfs:label "telephone" .
+
+
+dem:Window rdfs:label "window" .
+
+
+#################################################################
+#    General axioms
+#################################################################
+
+[ rdf:type owl:AllDisjointClasses ;
+  owl:members ( sot:AlarmClock
+                sot:Book
+                sot:Chair
+                sot:Computer
+                sot:Couch
+                sot:Glass
+                sot:Laptop
+                sot:Mug
+                sot:Plate
+                sot:TV
+                sot:Table
+                sot:Telephone
+              )
+] .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi

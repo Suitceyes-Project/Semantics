@@ -1,0 +1,39 @@
+{
+  "patterns": [
+    {
+      "isSequential": true,
+      "pins": [
+        {
+          "id": 0,
+          "intensity": 255,
+          "duration": 1000
+        },
+        {
+          "id": 0,
+          "intensity": 0,
+          "duration": 0
+        },
+        {
+          "id": 1,
+          "intensity": 255,
+          "duration": 1000
+        },
+        {
+          "id": 1,
+          "intensity": 0,
+          "duration": 0
+        },
+        {
+          "id": 2,
+          "intensity": 255,
+          "duration": 1000
+        },
+        {
+          "id": 2,
+          "intensity": 0,
+          "duration": 0
+        }
+      ]
+    }
+  ]
+}
