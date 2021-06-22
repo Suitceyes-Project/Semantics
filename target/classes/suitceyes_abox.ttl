@@ -1,0 +1,326 @@
+# baseURI: http://localhost/resources/suitceyes_abox
+# imports: http://localhost/resources/suitceyes_tbox
+# prefix: soa
+
+@prefix : <http://localhost/resources/suitceyes_abox#> .
+@prefix dem: <http://www.demcare.eu/ontologies/event.owl#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix seas: <https://w3id.org/seas/> .
+@prefix soa: <http://localhost/resources/suitceyes_abox#> .
+@prefix sot: <http://localhost/resources/suitceyes_tbox#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://localhost/resources/suitceyes_abox>
+  rdf:type owl:Ontology ;
+  owl:imports <http://localhost/resources/suitceyes_tbox> ;
+  owl:versionInfo "Created with TopBraid Composer" ;
+.
+soa:apple
+  rdf:type sot:Object ;
+  sot:hasOccupiedArea soa:apple_occupied_area ;
+  sot:hasSpatialContext soa:apple_on_spatial_context ;
+  sot:hasSpatialContext soa:apple_right_spatial_context ;
+  sot:locatedInSemanticSpace soa:kitchen_1 ;
+.
+soa:apple_occupied_area
+  rdf:type sot:OccupiedArea ;
+.
+soa:apple_on_spatial_context
+  rdf:type sot:OnSpatialContext ;
+  sot:definesSpatialRelationWith soa:table ;
+.
+soa:apple_right_spatial_context
+  rdf:type sot:RightSpatialContext ;
+  sot:definesSpatialRelationWith soa:me ;
+.
+soa:book_1
+  rdf:type dem:Book ;
+  sot:hasSpatialContext soa:book_distance_spatial_object ;
+  sot:hasSpatialContext soa:table_camdepth_on_spatial_context ;
+.
+soa:book_distance_spatial_object
+  rdf:type sot:AbsoluteDistanceSpatialContext ;
+  sot:definesAbsoluteDistanceClass "immediate" ;
+.
+soa:camera_1
+  rdf:type sot:Sensor ;
+.
+soa:depth_sensor_1
+  rdf:type sot:Sensor ;
+.
+soa:detection_1
+  rdf:type sot:Detection ;
+  sot:detectsActivity soa:talking_1 ;
+  sot:detectsPerson soa:john ;
+  sot:detectsPerson soa:unknown_person_1 ;
+  sot:detectsSemanticSpace soa:kitchen_1 ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2019-01-15T09:32:00.233"^^xsd:dateTime ;
+  sot:providedBy soa:camera_1 ;
+.
+soa:detection_2
+  rdf:type sot:Detection ;
+  sot:detectsObject soa:apple ;
+  sot:detectsObject soa:mobile ;
+  sot:detectsObject soa:refrigerator ;
+  sot:detectsObject soa:table ;
+  sot:detectsPerson soa:john ;
+  sot:detectsSemanticSpace soa:kitchen_1 ;
+  sot:hasConfidence "0.95"^^xsd:float ;
+  sot:hasTimestamp "2019-01-15T09:40:00"^^xsd:dateTime ;
+  sot:providedBy soa:camera_1 ;
+.
+soa:detection_3
+  rdf:type sot:Detection ;
+  sot:detectsObject soa:mobile ;
+  sot:detectsObject soa:table ;
+  sot:detectsSemanticSpace soa:kitchen_1 ;
+  sot:hasConfidence "0.98"^^xsd:float ;
+  sot:hasTimestamp "2019-01-15T10:00:00"^^xsd:dateTime ;
+  sot:providedBy soa:camera_1 ;
+  sot:providedBy soa:iBeacon_3 ;
+.
+soa:detection_4_stairs
+  rdf:type sot:Detection ;
+  sot:detects soa:stairs_1 ;
+  sot:detectsSemanticSpace soa:stairs_1 ;
+  sot:hasConfidence "0.98"^^xsd:float ;
+  sot:hasTimestamp "2019-01-15T12:00:00"^^xsd:dateTime ;
+  sot:providedBy soa:depth_sensor_1 ;
+.
+soa:detection_5
+  rdf:type sot:Detection ;
+  sot:detectsPerson soa:john ;
+  sot:detectsPerson soa:unknown_person_1 ;
+  sot:detectsSemanticSpace soa:kitchen_1 ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2019-11-15T09:32:00.233"^^xsd:dateTime ;
+  sot:providedBy soa:camera_1 ;
+.
+soa:detection_6
+  rdf:type sot:Detection ;
+  sot:detectsObject soa:book_1 ;
+  sot:detectsPerson soa:john ;
+  sot:detectsSemanticSpace soa:kitchen_1 ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2019-11-15T10:32:00.233"^^xsd:dateTime ;
+  sot:providedBy soa:iBeacon_1 ;
+  sot:providedBy soa:iBeacon_2 ;
+.
+soa:detection_camdepth_1
+  rdf:type sot:Detection ;
+  sot:detectsObject soa:book_1 ;
+  sot:detectsObject soa:table_camdepth ;
+  sot:providedBy soa:camera_1 ;
+.
+soa:detection_camdepth_2
+  rdf:type sot:Detection ;
+  sot:detectsObject soa:unknown_object ;
+  sot:providedBy soa:depth_sensor_1 ;
+.
+soa:iBeacon_1
+  rdf:type sot:iBeacon ;
+  sot:hasID 1 ;
+  sot:hasName "book" ;
+.
+soa:iBeacon_2
+  rdf:type sot:iBeacon ;
+  sot:hasID 2 ;
+  sot:hasName "John" ;
+.
+soa:iBeacon_3
+  rdf:type sot:iBeacon ;
+  sot:hasID 3 ;
+  sot:hasName "table" ;
+.
+soa:in_room_spatial_context
+  rdf:type sot:InSpatialContext ;
+  sot:definesSpatialRelationWith soa:me ;
+.
+soa:john
+  rdf:type sot:KnownPerson ;
+  rdf:type sot:Person ;
+  rdf:type foaf:Person ;
+  sot:hasOccupiedArea soa:john_occupied_area ;
+  sot:hasSpatialContext soa:john_distance_spatial_context ;
+  sot:hasSpatialContext soa:john_right_spatial_context ;
+  sot:isDirectUser "false"^^xsd:boolean ;
+  sot:locatedInSemanticSpace soa:kitchen_1 ;
+  rdfs:label "John" ;
+.
+soa:john_close_spatial_context
+  rdf:type sot:CloseSpatialContext ;
+  sot:definesSpatialRelationWith soa:wall_1 ;
+.
+soa:john_distance_spatial_context
+  rdf:type sot:AbsoluteDistanceSpatialContext ;
+  sot:definesAbsoluteDistanceClass "far" ;
+.
+soa:john_occupied_area
+  rdf:type sot:OccupiedArea ;
+  sot:height 653 ;
+  sot:width 255 ;
+  sot:xPosition 100 ;
+  sot:yPosition 50 ;
+.
+soa:john_right_spatial_context
+  rdf:type sot:RightSpatialContext ;
+  sot:definesSpatialRelationWith soa:me ;
+.
+soa:kitchen_1
+  rdf:type sot:SemanticSpace ;
+  rdf:type seas:Kitchen ;
+  rdf:type seas:Room ;
+  sot:hasSpatialContext soa:in_room_spatial_context ;
+  rdfs:label "kitchen" ;
+.
+soa:livingroom_1
+  rdf:type seas:LivingRoom ;
+  rdfs:label "living room" ;
+.
+soa:me
+  rdf:type sot:Person ;
+  rdf:type foaf:Person ;
+  sot:hasSpatialContext soa:me_left_spatial_context ;
+  sot:hasSpatialContext soa:me_right_spatial_context ;
+  sot:isDirectUser "true"^^xsd:boolean ;
+  sot:locatedInSemanticSpace soa:kitchen_1 ;
+.
+soa:me_left_spatial_context
+  rdf:type sot:LeftSpatialContext ;
+  sot:definesSpatialRelationWith soa:apple ;
+  sot:definesSpatialRelationWith soa:john ;
+  sot:definesSpatialRelationWith soa:table ;
+.
+soa:me_right_spatial_context
+  rdf:type sot:RightSpatialContext ;
+  sot:definesSpatialRelationWith soa:refrigerator ;
+.
+soa:mobile
+  rdf:type sot:Object ;
+  rdf:type dem:Telephone ;
+  sot:hasOccupiedArea soa:mobile_occupied_area ;
+  sot:hasSpatialContext soa:mobile_on_spatial_context_2019_01_15T09_40_00 ;
+  sot:hasSpatialContext soa:mobile_on_spatial_context_2019_01_15T10_00_00 ;
+  sot:hasTotalNo 2 ;
+  sot:locatedInSemanticSpace soa:kitchen_1 ;
+.
+soa:mobile_occupied_area
+  rdf:type sot:OccupiedArea ;
+.
+soa:mobile_on_spatial_context
+  rdf:type sot:OnSpatialContext ;
+  sot:definesSpatialRelationWith soa:table ;
+.
+soa:mobile_on_spatial_context_2019_01_15T09_40_00
+  rdf:type sot:OnSpatialContext ;
+  sot:definesSpatialRelationWith soa:table ;
+  sot:hasTimestamp "2019-01-15T09:40:00"^^xsd:dateTime ;
+.
+soa:mobile_on_spatial_context_2019_01_15T10_00_00
+  rdf:type sot:OnSpatialContext ;
+  sot:definesSpatialRelationWith soa:table ;
+  sot:hasTimestamp "2019-01-15T10:00:00"^^xsd:dateTime ;
+.
+soa:obstacle_close_spatial_context
+  rdf:type sot:CloseSpatialContext ;
+  sot:definesSpatialRelationWith soa:me ;
+.
+soa:output_1
+  rdf:type sot:Information ;
+  sot:refersTo soa:talking_1 ;
+  sot:refersToActivity soa:talking_1 ;
+.
+soa:refrigerator
+  rdf:type sot:Object ;
+  rdf:type dem:Fridge ;
+  sot:hasOccupiedArea soa:refrigerator_occupied_area ;
+  sot:hasSpatialContext soa:refrigerator_left_spatial_context ;
+  sot:locatedInSemanticSpace soa:kitchen_1 ;
+.
+soa:refrigerator_left_spatial_context
+  rdf:type sot:LeftSpatialContext ;
+  sot:definesSpatialRelationWith soa:me ;
+  sot:definesSpatialRelationWith soa:table ;
+.
+soa:refrigerator_occupied_area
+  rdf:type sot:OccupiedArea ;
+.
+soa:stairs_1
+  rdf:type sot:SemanticSpace ;
+  rdf:type seas:Stairs ;
+  sot:hasSpatialContext soa:stairs_distance_spatial_context ;
+  rdfs:label "stairs" ;
+.
+soa:stairs_distance_spatial_context
+  rdf:type sot:AbsoluteDistanceSpatialContext ;
+  rdf:type sot:SpatialContext ;
+  sot:definesAbsoluteDistance "2.00"^^xsd:float ;
+  sot:definesSpatialRelationWith soa:me ;
+.
+soa:table
+  rdf:type sot:Object ;
+  rdf:type dem:Table ;
+  sot:hasOccupiedArea soa:table_occupied_area ;
+  sot:hasSpatialContext soa:table_right_spatial_context ;
+  sot:locatedInSemanticSpace soa:kitchen_1 ;
+.
+soa:table_camdepth
+  rdf:type sot:Object ;
+  rdf:type dem:Table ;
+  sot:hasOccupiedArea soa:table_occupied_area ;
+  sot:locatedInSemanticSpace soa:kitchen_1 ;
+.
+soa:table_camdepth_on_spatial_context
+  rdf:type sot:OnSpatialContext ;
+  sot:definesSpatialRelationWith soa:table_camdepth ;
+.
+soa:table_occupied_area
+  rdf:type sot:OccupiedArea ;
+.
+soa:table_right_spatial_context
+  rdf:type sot:RightSpatialContext ;
+  sot:definesSpatialRelationWith soa:me ;
+.
+soa:talking_1
+  rdf:type sot:Activity ;
+  rdf:type dem:SocialInteraction ;
+  sot:involvesPerson soa:john ;
+  sot:involvesPerson soa:unknown_person_1 ;
+.
+soa:talking_2
+  rdf:type sot:Activity ;
+  rdf:type dem:SocialInteraction ;
+  sot:involves soa:john ;
+  sot:involves soa:me ;
+  sot:involvesPerson soa:john ;
+  sot:involvesPerson soa:me ;
+.
+soa:unknown_left_spatial_context
+  rdf:type sot:LeftSpatialContext ;
+  sot:definesSpatialRelationWith soa:me ;
+.
+soa:unknown_object
+  rdf:type sot:Object ;
+  rdf:type sot:Obstacle ;
+  rdf:type dem:Object ;
+  sot:hasSpatialContext soa:obstacle_close_spatial_context ;
+.
+soa:unknown_person_1
+  rdf:type sot:Person ;
+  rdf:type sot:UnknownPerson ;
+  rdf:type foaf:Person ;
+  sot:hasSpatialContext soa:unknown_left_spatial_context ;
+  sot:isDirectUser "false"^^xsd:boolean ;
+  sot:locatedInSemanticSpace soa:kitchen_1 ;
+.
+soa:wall_1
+  rdf:type sot:SemanticSpace ;
+  rdf:type seas:Wall ;
+.
+dem:Book
+  rdfs:subClassOf sot:Object ;
+.

@@ -13,24 +13,16 @@ import org.eclipse.rdf4j.model.impl.SimpleValueFactory;
 
 public class Vocabulary {
 
-//		public static final String NAMESPACE_TBOX = "http://160.40.51.22/mklab_ontologies/SUITCEYES/suitceyes_tbox#";
 	public static final String NAMESPACE_TBOX = "http://localhost/resources/suitceyes_tbox#";
 
-	//public static final String SERVER_URL = "http://160.40.49.112:7200";
-//	public static final String SERVER_URL = "https://graphdb.certh.strdi.me:443";
+
 	public static final String SERVER_URL = "http://160.40.49.192:89";
-//	public static final String SERVER_URL = "http://172.24.0.2:89";
 
 	public static final String PREFIX_TBOX = "sot";
 
-	//public static final String SPARQL_ENDPOINT_SELECT = "http://160.40.49.112:7200/repositories/mklab-suitceyes-kb";
-	//public static final String SPARQL_ENDPOINT_UPDATE = "http://160.40.49.112:7200/repositories/mklab-suitceyes-kb/statements";
-//	public static final String SPARQL_ENDPOINT_SELECT = "https://graphdb.certh.strdi.me/repositories/mklab-suitceyes-kb";
-//	public static final String SPARQL_ENDPOINT_UPDATE = "https://graphdb.certh.strdi.me/repositories/mklab-suitceyes-kb/statements";
+
 	public static final String SPARQL_ENDPOINT_SELECT = "http://160.40.49.192:89/repositories/mklab-suitceyes-kb";
 	public static final String SPARQL_ENDPOINT_UPDATE = "http://160.40.49.192:89/repositories/mklab-suitceyes-kb/statements";
-//	public static final String SPARQL_ENDPOINT_SELECT = "http://172.24.0.2:89/repositories/mklab-suitceyes-kb";
-//	public static final String SPARQL_ENDPOINT_UPDATE = "http://172.24.0.2:89/repositories/mklab-suitceyes-kb/statements";
 	
 	public static final String SOT_OBJECT = NAMESPACE_TBOX + "Object";
 	public static final String SOT_SEMANTICSPACE = NAMESPACE_TBOX + "SemanticSpace";

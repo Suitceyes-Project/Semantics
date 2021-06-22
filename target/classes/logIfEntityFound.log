@@ -1,0 +1,1524 @@
+[22-Aug-2019 14:13:06.065] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[22-Aug-2019 14:21:07.506] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[22-Aug-2019 14:47:16.565] ########## SEARCHING FOR ENTITY(o): chair ##########
+[22-Aug-2019 14:47:16.565] VAfound: true (distanceVA=-1.0, position=right, scenetype=unknown), IBfound: false (distanceIB=null)
+[22-Aug-2019 14:48:09.295] VAfound: true (distanceVA=595.4886, position=left, scenetype=unknown), IBfound: false (distanceIB=null)
+[22-Aug-2019 14:48:11.494] VAfound: true (distanceVA=618.6917, position=left, scenetype=unknown), IBfound: false (distanceIB=null)
+[22-Aug-2019 14:48:12.797] VAfound: true (distanceVA=624.78265, position=left, scenetype=unknown), IBfound: false (distanceIB=null)
+[22-Aug-2019 14:48:16.677] VAfound: true (distanceVA=655.3895, position=left, scenetype=unknown), IBfound: false (distanceIB=null)
+[22-Aug-2019 14:48:18.409] VAfound: true (distanceVA=703.86426, position=right, scenetype=unknown), IBfound: false (distanceIB=null)
+[22-Aug-2019 14:48:19.275] VAfound: true (distanceVA=-1.0, position=left, scenetype=unknown), IBfound: false (distanceIB=null)
+[22-Aug-2019 14:48:40.325] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[22-Aug-2019 14:50:33.395] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[22-Aug-2019 15:00:30.944] ########## SEARCHING FOR ENTITY(o): mug ##########
+[22-Aug-2019 15:00:30.944] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:00:48.646] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:00:52.074] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:01:02.889] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:01:03.755] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:01:27.916] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:01:33.968] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:01:43.499] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:01:44.792] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:01:46.945] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:01:47.800] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:01:48.665] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:01:50.823] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:02:20.984] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:02:24.884] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:02:31.872] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:02:32.741] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:02:34.047] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:02:34.479] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:02:49.272] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:02:53.065] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[22-Aug-2019 15:03:28.517] ########## SEARCHING FOR ENTITY(o): chair ##########
+[22-Aug-2019 15:03:28.517] VAfound: true (distanceVA=-1.0, position=left, scenetype=unknown), IBfound: false (distanceIB=null)
+[22-Aug-2019 15:04:15.130] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[22-Aug-2019 15:04:16.896] VAfound: true (distanceVA=-1.0, position=right, scenetype=unknown), IBfound: false (distanceIB=null)
+[22-Aug-2019 15:04:40.916] VAfound: true (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[22-Aug-2019 15:04:41.336] VAfound: true (distanceVA=-1.0, position=right, scenetype=unknown), IBfound: false (distanceIB=null)
+[22-Aug-2019 15:07:01.452] VAfound: true (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[22-Aug-2019 15:07:41.873] ########## SEARCHING FOR ENTITY(o): chair ##########
+[22-Aug-2019 15:07:41.874] VAfound: true (distanceVA=-1.0, position=right, scenetype=unknown), IBfound: false (distanceIB=null)
+[22-Aug-2019 15:09:58.148] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[22-Aug-2019 15:31:43.128] ########## SEARCHING FOR ENTITY(o): mug ##########
+[22-Aug-2019 15:31:43.128] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:32:25.281] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[22-Aug-2019 15:32:38.293] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:33:06.067] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:33:13.011] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:33:15.198] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:33:25.584] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:36:15.426] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:36:18.046] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:38:08.996] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:38:20.470] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:40:07.942] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:40:15.482] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:40:18.140] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:40:31.481] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:42:29.039] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:42:32.504] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:42:35.085] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:42:36.384] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:43:02.194] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 15:43:15.376] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:43:54.818] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[22-Aug-2019 15:55:30.670] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[22-Aug-2019 15:55:30.671] VAfound: true (distanceVA=-1.0, position=left, scenetype=unknown), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:55:30.673] ########## END ##########
+
+[22-Aug-2019 15:56:11.422] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[22-Aug-2019 15:56:11.423] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:56:41.123] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 15:56:41.999] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:58:11.887] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 15:58:12.776] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:59:08.441] VAfound: true (distanceVA=-1.0, position=right, scenetype=unknown), IBfound: true (distanceIB=near)
+[22-Aug-2019 15:59:08.441] ########## END ##########
+
+[22-Aug-2019 16:05:14.254] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[22-Aug-2019 16:05:14.254] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 16:07:21.048] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[22-Aug-2019 16:07:38.630] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 16:07:42.622] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 16:07:47.079] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 16:08:40.526] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 16:08:41.873] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 16:08:42.767] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 16:08:49.047] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 16:09:00.348] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[22-Aug-2019 16:09:24.977] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 16:09:28.126] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 16:09:29.474] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 16:09:34.289] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 16:12:10.426] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[22-Aug-2019 16:18:06.199] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 16:18:42.159] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 16:18:51.250] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 16:19:21.619] VAfound: true (distanceVA=1253.2108, position=left, scenetype=unknown), IBfound: true (distanceIB=near)
+[22-Aug-2019 16:19:21.619] ########## END ##########
+
+[22-Aug-2019 16:20:28.773] ########## SEARCHING FOR ENTITY(p): PanosPet ##########
+[22-Aug-2019 16:20:28.774] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[22-Aug-2019 16:27:55.652] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 16:28:24.281] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 16:29:26.987] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 16:30:03.117] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[22-Aug-2019 16:30:16.739] VAfound: true (distanceVA=-1.0, position=right, scenetype=unknown), IBfound: false (distanceIB=null)
+[22-Aug-2019 16:30:25.428] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[22-Aug-2019 16:30:31.074] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 16:31:15.086] VAfound: true (distanceVA=736.3182, position=right, scenetype=unknown), IBfound: true (distanceIB=far)
+[22-Aug-2019 16:31:15.087] ########## END ##########
+
+[22-Aug-2019 16:37:43.434] ########## SEARCHING FOR ENTITY(p): PanosPet ##########
+[22-Aug-2019 16:37:43.434] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 16:38:17.522] VAfound: true (distanceVA=1741.3385, position=right, scenetype=unknown), IBfound: true (distanceIB=far)
+[22-Aug-2019 16:38:17.522] ########## END ##########
+
+[22-Aug-2019 16:40:48.867] ########## SEARCHING FOR ENTITY(p): PanosPet ##########
+[22-Aug-2019 16:40:48.867] VAfound: true (distanceVA=1743.098, position=right, scenetype=unknown), IBfound: true (distanceIB=far)
+[22-Aug-2019 16:40:48.867] ########## END ##########
+
+[22-Aug-2019 16:41:14.892] ########## SEARCHING FOR ENTITY(p): PanosPet ##########
+[22-Aug-2019 16:41:14.892] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 16:41:54.986] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[22-Aug-2019 16:42:19.938] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 16:44:01.798] VAfound: true (distanceVA=744.17645, position=right, scenetype=unknown), IBfound: true (distanceIB=far)
+[22-Aug-2019 16:44:01.798] ########## END ##########
+
+[22-Aug-2019 16:47:25.127] ########## SEARCHING FOR ENTITY(p): PanosPet ##########
+[22-Aug-2019 16:47:25.127] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[22-Aug-2019 16:47:39.553] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[22-Aug-2019 17:02:01.731] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[22-Aug-2019 17:02:01.731] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 17:02:18.654] VAfound: true (distanceVA=-1.0, position=right, scenetype=unknown), IBfound: true (distanceIB=far)
+[22-Aug-2019 17:02:18.654] ########## END ##########
+
+[22-Aug-2019 17:02:46.302] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[22-Aug-2019 17:02:46.302] VAfound: true (distanceVA=-1.0, position=left, scenetype=unknown), IBfound: true (distanceIB=far)
+[22-Aug-2019 17:02:46.303] ########## END ##########
+
+[22-Aug-2019 17:03:14.159] ########## SEARCHING FOR ENTITY(p): PanosPet ##########
+[22-Aug-2019 17:03:14.160] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 17:03:25.047] VAfound: true (distanceVA=3857.1052, position=right, scenetype=unknown), IBfound: true (distanceIB=far)
+[22-Aug-2019 17:03:25.047] ########## END ##########
+
+[22-Aug-2019 17:05:39.014] ########## SEARCHING FOR ENTITY(p): PanosPet ##########
+[22-Aug-2019 17:05:39.014] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 17:07:01.315] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[22-Aug-2019 17:07:01.761] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 17:08:12.114] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[22-Aug-2019 17:08:12.114] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 17:09:04.765] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 17:09:20.075] VAfound: true (distanceVA=-1.0, position=right, scenetype=unknown), IBfound: true (distanceIB=near)
+[22-Aug-2019 17:09:20.076] ########## END ##########
+
+[22-Aug-2019 17:13:50.164] ########## SEARCHING FOR ENTITY(p): PanosPet ##########
+[22-Aug-2019 17:13:50.164] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 17:14:03.972] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 17:14:05.290] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[22-Aug-2019 17:14:36.562] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[22-Aug-2019 17:14:48.792] VAfound: true (distanceVA=3191.05, position=right, scenetype=unknown), IBfound: true (distanceIB=near)
+[22-Aug-2019 17:14:48.792] ########## END ##########
+
+[22-Aug-2019 17:44:17.510] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[22-Aug-2019 17:44:17.511] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Aug-2019 11:08:20.407] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[23-Aug-2019 11:08:20.407] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:08:22.999] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:08:26.035] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:08:29.480] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:08:38.208] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:08:39.069] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:08:41.218] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:08:43.804] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:08:56.320] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:09:15.401] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:09:18.425] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:09:20.157] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:09:29.285] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:09:31.024] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:09:33.199] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:09:36.421] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:09:40.337] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:09:45.157] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:09:50.493] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:09:57.917] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:09:59.240] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:10:00.377] VAfound: true (distanceVA=610.2577, position=right, scenetype=unknown), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:10:00.377] ########## END ##########
+
+[23-Aug-2019 11:20:08.189] ########## SEARCHING FOR ENTITY(o): phone ##########
+[23-Aug-2019 11:20:08.189] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:20:09.488] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:20:12.071] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:20:43.749] VAfound: true (distanceVA=693.6565, position=right, scenetype=unknown), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:20:43.749] ########## END ##########
+
+[23-Aug-2019 11:32:47.844] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[23-Aug-2019 11:32:47.845] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Aug-2019 11:42:35.937] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:42:41.006] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:42:43.118] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:42:44.390] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:42:44.814] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:42:46.933] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:42:48.237] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:42:52.040] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:43:17.081] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:43:20.053] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:43:37.953] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:43:40.092] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:43:44.347] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:43:48.186] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:43:52.869] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:43:54.988] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:44:33.152] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:44:40.022] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:44:55.110] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:44:59.037] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:45:02.043] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:45:11.999] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:45:15.012] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:45:15.876] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:45:25.057] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:45:34.105] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:45:43.205] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:45:44.068] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 11:45:47.982] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 11:45:49.149] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[23-Aug-2019 12:00:22.503] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[23-Aug-2019 12:00:22.504] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 12:00:43.025] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 12:00:43.900] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 12:00:47.804] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[23-Aug-2019 12:00:53.066] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 12:01:03.978] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 12:01:05.827] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 12:01:31.192] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 12:01:32.072] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 12:01:39.969] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 12:01:41.281] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 12:01:47.847] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 12:01:50.037] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 12:02:15.936] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[23-Aug-2019 12:51:28.966] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[23-Aug-2019 12:51:28.966] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[23-Aug-2019 12:51:47.781] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 12:51:57.579] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[23-Aug-2019 12:52:04.425] VAfound: true (distanceVA=-1.0, position=right, scenetype=unknown), IBfound: true (distanceIB=immediate)
+[23-Aug-2019 12:52:04.425] ########## END ##########
+
+[23-Aug-2019 12:52:19.715] ########## SEARCHING FOR ENTITY(o): phone ##########
+[23-Aug-2019 12:52:19.716] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 12:52:20.569] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 12:52:22.739] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[23-Aug-2019 12:52:23.175] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 12:52:24.465] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[23-Aug-2019 12:52:30.475] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 12:52:35.628] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[23-Aug-2019 12:52:38.619] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 12:52:39.475] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[23-Aug-2019 12:52:57.530] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 12:53:08.730] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[23-Aug-2019 12:53:10.456] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 12:53:17.485] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[23-Aug-2019 12:53:18.353] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 12:53:20.073] VAfound: true (distanceVA=-1.0, position=right, scenetype=unknown), IBfound: true (distanceIB=near)
+[23-Aug-2019 12:53:20.073] ########## END ##########
+
+[23-Aug-2019 13:35:07.995] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[23-Aug-2019 13:35:07.996] VAfound: true (distanceVA=885.973, position=middle, scenetype=unknown), IBfound: true (distanceIB=immediate)
+[23-Aug-2019 13:35:07.998] ########## END ##########
+
+[23-Aug-2019 13:47:08.598] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[23-Aug-2019 13:47:08.599] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[23-Aug-2019 13:47:17.117] VAfound: true (distanceVA=639.48895, position=middle, scenetype=unknown), IBfound: true (distanceIB=immediate)
+[23-Aug-2019 13:47:17.117] ########## END ##########
+
+[23-Aug-2019 14:34:46.891] ########## SEARCHING FOR ENTITY(p): PanosPet ##########
+[23-Aug-2019 14:34:46.891] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Aug-2019 15:46:07.407] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[23-Aug-2019 15:46:07.408] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 15:46:08.272] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:46:10.425] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 15:46:18.151] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:46:19.433] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 15:46:23.341] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:46:28.057] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 15:46:32.369] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:46:35.372] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 15:46:47.911] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[23-Aug-2019 15:47:18.306] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 15:47:25.202] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[23-Aug-2019 15:47:28.235] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 15:47:28.678] VAfound: true (distanceVA=2315.8203, position=left, scenetype=unknown), IBfound: true (distanceIB=near)
+[23-Aug-2019 15:47:28.678] ########## END ##########
+
+[23-Aug-2019 15:49:32.394] ########## SEARCHING FOR ENTITY(p): PanosPet ##########
+[23-Aug-2019 15:49:32.395] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:49:36.315] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Aug-2019 15:49:37.599] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:51:01.553] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[23-Aug-2019 15:52:19.922] ########## SEARCHING FOR ENTITY(p): PanosPet ##########
+[23-Aug-2019 15:52:19.923] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:52:21.194] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Aug-2019 15:52:22.047] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:52:29.279] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Aug-2019 15:52:38.630] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:53:12.318] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Aug-2019 15:53:14.444] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:53:27.302] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Aug-2019 15:53:33.264] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 15:53:34.123] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:53:58.790] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[23-Aug-2019 15:55:17.313] ########## SEARCHING FOR ENTITY(p): PanosPet ##########
+[23-Aug-2019 15:55:17.313] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:55:38.291] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 15:55:43.828] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:56:00.076] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 15:56:09.024] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:56:12.017] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 15:56:15.006] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:56:30.051] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 15:56:40.836] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:56:42.117] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 15:56:50.255] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:56:58.006] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 15:57:05.281] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:57:18.313] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[23-Aug-2019 15:57:31.326] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:58:19.314] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Aug-2019 15:58:42.773] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:59:07.370] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Aug-2019 15:59:08.236] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:59:25.587] VAfound: true (distanceVA=2222.208, position=left, scenetype=unknown), IBfound: true (distanceIB=far)
+[23-Aug-2019 15:59:25.587] ########## END ##########
+
+[11-Nov-2019 11:45:59.892] ########## SEARCHING FOR ENTITY(o): mug ##########
+[11-Nov-2019 11:45:59.893] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[11-Nov-2019 11:46:42.895] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[12-Nov-2019 13:05:51.526] ########## SEARCHING FOR ENTITY(o): chair ##########
+[12-Nov-2019 13:05:51.528] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[12-Nov-2019 13:10:18.163] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[12-Nov-2019 13:10:24.067] ########## SEARCHING FOR ENTITY(o): mug ##########
+[12-Nov-2019 13:10:24.067] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[12-Nov-2019 13:13:41.203] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[12-Nov-2019 13:14:26.645] ########## SEARCHING FOR ENTITY(o): mug ##########
+[12-Nov-2019 13:14:26.645] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[12-Nov-2019 13:15:45.057] ########## SEARCHING FOR ENTITY(o): mug ##########
+[12-Nov-2019 13:15:45.057] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[12-Nov-2019 13:40:11.913] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[12-Nov-2019 13:40:54.805] ########## SEARCHING FOR ENTITY(o): mug ##########
+[12-Nov-2019 13:40:54.805] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[12-Nov-2019 13:42:27.939] ########## SEARCHING FOR ENTITY(o): mug ##########
+[12-Nov-2019 13:42:27.941] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[12-Nov-2019 13:44:01.297] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[14-Nov-2019 14:48:17.901] ########## SEARCHING FOR ENTITY(o): mug ##########
+[14-Nov-2019 14:48:17.902] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 09:39:00.714] ########## SEARCHING FOR ENTITY(o): mug ##########
+[15-Nov-2019 09:39:00.715] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 09:39:13.493] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[15-Nov-2019 10:25:08.188] ########## SEARCHING FOR ENTITY(o): table ##########
+[15-Nov-2019 10:25:08.188] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[15-Nov-2019 10:25:48.575] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[15-Nov-2019 10:25:52.117] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[15-Nov-2019 10:26:01.335] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[15-Nov-2019 10:26:06.107] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 10:26:09.681] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[15-Nov-2019 10:26:24.542] VAfound: true (distanceVA=1626.846, position=right, scenetype=unknown), IBfound: true (distanceIB=near)
+[15-Nov-2019 10:26:24.542] ########## END ##########
+
+[15-Nov-2019 10:33:47.192] ########## SEARCHING FOR ENTITY(o): table ##########
+[15-Nov-2019 10:33:47.193] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 10:34:08.523] VAfound: true (distanceVA=3022.3284, position=left, scenetype=unknown), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 10:34:08.523] ########## END ##########
+
+[15-Nov-2019 10:37:29.319] ########## SEARCHING FOR ENTITY(o): table ##########
+[15-Nov-2019 10:37:29.319] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 10:38:13.214] VAfound: true (distanceVA=-1.0, position=right, scenetype=unknown), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 10:38:13.215] ########## END ##########
+
+[15-Nov-2019 10:40:30.717] ########## SEARCHING FOR ENTITY(o): table ##########
+[15-Nov-2019 10:40:30.717] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 10:41:30.337] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[15-Nov-2019 10:41:49.247] ########## SEARCHING FOR ENTITY(o): table ##########
+[15-Nov-2019 10:41:49.247] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 10:41:51.047] VAfound: true (distanceVA=-1.0, position=middle, scenetype=unknown), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 10:41:51.047] ########## END ##########
+
+[15-Nov-2019 13:19:41.845] ########## SEARCHING FOR ENTITY(o): book ##########
+[15-Nov-2019 13:19:41.846] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:28:03.481] ########## SEARCHING FOR ENTITY(o): book ##########
+[15-Nov-2019 14:28:03.482] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:28:36.869] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[15-Nov-2019 14:28:41.448] ########## SEARCHING FOR ENTITY(o): phone ##########
+[15-Nov-2019 14:28:41.448] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:28:59.924] VAfound: true (distanceVA=1020.0, position=right, scenetype=closet), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:29:00.790] VAfound: true (distanceVA=2261.0, position=right, scenetype=pantry), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:29:02.093] VAfound: true (distanceVA=1810.0, position=right, scenetype=dining room), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:29:03.808] VAfound: true (distanceVA=1533.0, position=middle, scenetype=bedroom), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:29:05.112] VAfound: true (distanceVA=3353.0, position=left, scenetype=basement), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:29:06.892] VAfound: true (distanceVA=1811.0, position=right, scenetype=basement), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:29:07.754] VAfound: true (distanceVA=2141.0, position=right, scenetype=kitchen), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:29:09.043] VAfound: true (distanceVA=2684.0, position=left, scenetype=basement), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:29:12.084] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:29:13.027] VAfound: true (distanceVA=1158.0, position=right, scenetype=office), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:29:13.884] VAfound: true (distanceVA=2404.0, position=left, scenetype=pantry), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:29:17.289] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:31:33.039] ########## SEARCHING FOR ENTITY(o): book ##########
+[15-Nov-2019 14:31:33.040] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:31:43.334] VAfound: true (distanceVA=1166.0, position=right, scenetype=pantry), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:31:44.203] VAfound: true (distanceVA=2969.0, position=right, scenetype=laundromat), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:31:45.502] VAfound: true (distanceVA=802.0, position=right, scenetype=staircase), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:31:46.362] VAfound: true (distanceVA=829.0, position=right, scenetype=pantry), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:31:49.372] VAfound: true (distanceVA=2112.0, position=right, scenetype=staircase), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:31:51.535] VAfound: true (distanceVA=1797.0, position=left, scenetype=childs room), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:31:53.275] VAfound: true (distanceVA=1513.0, position=right, scenetype=corridor), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:31:56.303] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:31:57.591] VAfound: true (distanceVA=3247.0, position=right, scenetype=living room), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:32:00.141] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:37:47.112] ########## SEARCHING FOR ENTITY(o): book ##########
+[15-Nov-2019 14:37:47.113] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:37:58.695] VAfound: true (distanceVA=2421.0, position=middle, scenetype=office), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:38:04.347] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:38:05.661] VAfound: true (distanceVA=3081.0, position=middle, scenetype=office), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:38:11.310] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:39:31.796] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[15-Nov-2019 14:39:40.457] ########## SEARCHING FOR ENTITY(o): book ##########
+[15-Nov-2019 14:39:40.457] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:43:19.194] ########## SEARCHING FOR ENTITY(o): book ##########
+[15-Nov-2019 14:43:19.195] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 14:43:32.042] VAfound: true (distanceVA=3055.0, position=right, scenetype=pantry), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 14:43:32.042] ########## END ##########
+
+[15-Nov-2019 14:44:13.178] ########## SEARCHING FOR ENTITY(o): book ##########
+[15-Nov-2019 14:44:13.178] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 14:44:54.700] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[15-Nov-2019 14:45:07.188] ########## SEARCHING FOR ENTITY(o): book ##########
+[15-Nov-2019 14:45:07.188] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 14:45:10.643] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:45:12.382] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[15-Nov-2019 14:45:12.821] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 14:45:28.844] VAfound: true (distanceVA=3415.0, position=right, scenetype=living room), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 14:45:28.844] ########## END ##########
+
+[15-Nov-2019 14:46:49.342] ########## SEARCHING FOR ENTITY(o): book ##########
+[15-Nov-2019 14:46:49.343] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 14:46:57.108] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:46:58.870] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 14:46:59.298] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:19.671] VAfound: true (distanceVA=1979.0, position=right, scenetype=laundromat), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:20.106] VAfound: true (distanceVA=1979.0, position=right, scenetype=laundromat), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:20.621] VAfound: true (distanceVA=1979.0, position=right, scenetype=laundromat), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:21.048] VAfound: true (distanceVA=1979.0, position=right, scenetype=laundromat), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:21.492] VAfound: true (distanceVA=1979.0, position=right, scenetype=laundromat), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:21.933] VAfound: true (distanceVA=1979.0, position=right, scenetype=laundromat), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:22.790] VAfound: true (distanceVA=957.0, position=left, scenetype=bedroom), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:23.215] VAfound: true (distanceVA=957.0, position=left, scenetype=bedroom), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:23.660] VAfound: true (distanceVA=957.0, position=left, scenetype=bedroom), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:24.104] VAfound: true (distanceVA=957.0, position=left, scenetype=bedroom), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:24.543] VAfound: true (distanceVA=957.0, position=left, scenetype=bedroom), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:24.985] VAfound: true (distanceVA=1228.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:25.413] VAfound: true (distanceVA=1228.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:25.856] VAfound: true (distanceVA=3146.0, position=right, scenetype=living room), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:26.309] VAfound: true (distanceVA=3146.0, position=right, scenetype=living room), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:26.743] VAfound: true (distanceVA=3017.0, position=right, scenetype=laundromat), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:27.171] VAfound: true (distanceVA=3017.0, position=right, scenetype=laundromat), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:27.599] VAfound: true (distanceVA=3017.0, position=right, scenetype=laundromat), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:28.030] VAfound: true (distanceVA=3017.0, position=right, scenetype=laundromat), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:28.460] VAfound: true (distanceVA=3017.0, position=right, scenetype=laundromat), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:47:28.889] VAfound: true (distanceVA=3017.0, position=right, scenetype=laundromat), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:48:14.556] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[15-Nov-2019 14:50:06.150] ########## SEARCHING FOR ENTITY(o): book ##########
+[15-Nov-2019 14:50:06.152] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:50:10.512] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:50:12.239] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 14:50:12.667] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:52:15.605] ########## SEARCHING FOR ENTITY(o): book ##########
+[15-Nov-2019 14:52:15.606] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 14:52:19.048] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[15-Nov-2019 14:52:20.780] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[15-Nov-2019 14:52:21.217] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:01.670] ########## SEARCHING FOR ENTITY(o): book ##########
+[15-Nov-2019 15:05:01.672] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 15:05:15.361] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:17.116] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[15-Nov-2019 15:05:17.551] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:29.629] VAfound: true (distanceVA=1992.0, position=right, scenetype=childs room), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:30.060] VAfound: true (distanceVA=1992.0, position=right, scenetype=childs room), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:30.516] VAfound: true (distanceVA=2798.0, position=left, scenetype=staircase), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:30.956] VAfound: true (distanceVA=2798.0, position=left, scenetype=staircase), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:31.384] VAfound: true (distanceVA=2798.0, position=left, scenetype=staircase), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:31.816] VAfound: true (distanceVA=2798.0, position=left, scenetype=staircase), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:32.245] VAfound: true (distanceVA=2798.0, position=left, scenetype=staircase), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:32.677] VAfound: true (distanceVA=1703.0, position=left, scenetype=closet), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:33.105] VAfound: true (distanceVA=1703.0, position=left, scenetype=closet), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:33.594] VAfound: true (distanceVA=2507.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:34.033] VAfound: true (distanceVA=2507.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:34.473] VAfound: true (distanceVA=2507.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:34.918] VAfound: true (distanceVA=2507.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:35.344] VAfound: true (distanceVA=2507.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:35.775] VAfound: true (distanceVA=2507.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:36.652] VAfound: true (distanceVA=2058.0, position=right, scenetype=closet), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:37.091] VAfound: true (distanceVA=2058.0, position=right, scenetype=closet), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:37.545] VAfound: true (distanceVA=987.0, position=right, scenetype=corridor), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:37.975] VAfound: true (distanceVA=987.0, position=right, scenetype=corridor), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:38.405] VAfound: true (distanceVA=987.0, position=right, scenetype=corridor), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:38.836] VAfound: true (distanceVA=987.0, position=right, scenetype=corridor), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:39.272] VAfound: true (distanceVA=987.0, position=right, scenetype=corridor), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:05:39.710] VAfound: true (distanceVA=987.0, position=right, scenetype=corridor), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:06:59.851] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 15:07:00.311] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:07:48.744] ########## SEARCHING FOR ENTITY(o): book ##########
+[15-Nov-2019 15:07:48.744] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:09:31.322] ########## SEARCHING FOR ENTITY(o): book ##########
+[15-Nov-2019 15:09:31.324] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 15:11:16.828] ########## SEARCHING FOR ENTITY(o): book ##########
+[15-Nov-2019 15:11:16.828] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 15:12:47.602] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:12:49.352] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[15-Nov-2019 15:12:49.784] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:14:10.799] ########## SEARCHING FOR ENTITY(o): book ##########
+[15-Nov-2019 15:14:10.800] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 15:17:45.717] ########## SEARCHING FOR ENTITY(o): book ##########
+[15-Nov-2019 15:17:45.718] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 15:19:12.933] ########## SEARCHING FOR ENTITY(o): book ##########
+[15-Nov-2019 15:19:12.934] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[15-Nov-2019 15:19:49.570] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:19:51.305] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[15-Nov-2019 15:19:51.735] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[15-Nov-2019 15:20:12.122] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[18-Nov-2019 10:54:17.745] ########## SEARCHING FOR ENTITY(o): book ##########
+[18-Nov-2019 10:54:17.747] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 10:55:10.671] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 10:55:11.096] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[18-Nov-2019 10:55:11.525] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 10:55:15.390] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 10:55:33.471] VAfound: true (distanceVA=853.0, position=left, scenetype=office), IBfound: false (distanceIB=null)
+[18-Nov-2019 10:55:45.261] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 10:55:46.552] VAfound: true (distanceVA=3129.0, position=right, scenetype=corridor), IBfound: false (distanceIB=null)
+[18-Nov-2019 10:55:49.166] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 11:05:17.856] ########## SEARCHING FOR ENTITY(o): book ##########
+[18-Nov-2019 11:05:17.857] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 11:06:03.839] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:05.581] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[18-Nov-2019 11:06:06.012] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:24.474] VAfound: true (distanceVA=2170.0, position=left, scenetype=basement), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:24.908] VAfound: true (distanceVA=2170.0, position=left, scenetype=basement), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:25.382] VAfound: true (distanceVA=2170.0, position=left, scenetype=basement), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:25.814] VAfound: true (distanceVA=2170.0, position=left, scenetype=basement), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:26.256] VAfound: true (distanceVA=1246.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:26.697] VAfound: true (distanceVA=1246.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:27.148] VAfound: true (distanceVA=1246.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:27.577] VAfound: true (distanceVA=1246.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:28.003] VAfound: true (distanceVA=1246.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:28.445] VAfound: true (distanceVA=1267.0, position=right, scenetype=office), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:28.889] VAfound: true (distanceVA=1267.0, position=right, scenetype=office), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:29.329] VAfound: true (distanceVA=1267.0, position=right, scenetype=office), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:29.769] VAfound: true (distanceVA=1267.0, position=right, scenetype=office), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:30.220] VAfound: true (distanceVA=2863.0, position=left, scenetype=laundromat), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:30.655] VAfound: true (distanceVA=2863.0, position=left, scenetype=laundromat), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:31.083] VAfound: true (distanceVA=2863.0, position=left, scenetype=laundromat), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:31.514] VAfound: true (distanceVA=2863.0, position=left, scenetype=laundromat), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:31.948] VAfound: true (distanceVA=2863.0, position=left, scenetype=laundromat), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:32.380] VAfound: true (distanceVA=1096.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:32.816] VAfound: true (distanceVA=1096.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:33.254] VAfound: true (distanceVA=1732.0, position=right, scenetype=living room), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:33.695] VAfound: true (distanceVA=1732.0, position=right, scenetype=living room), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:34.140] VAfound: true (distanceVA=1732.0, position=right, scenetype=living room), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:34.578] VAfound: true (distanceVA=1732.0, position=right, scenetype=living room), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:35.037] VAfound: true (distanceVA=1732.0, position=right, scenetype=living room), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:35.462] VAfound: true (distanceVA=1732.0, position=right, scenetype=living room), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:35.920] VAfound: true (distanceVA=1732.0, position=right, scenetype=living room), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:36.357] VAfound: true (distanceVA=1732.0, position=right, scenetype=living room), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:36.790] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:37.222] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:37.652] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:38.087] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:38.516] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:38.943] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:39.372] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:39.798] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:40.229] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:40.660] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:41.090] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: false (distanceIB=null)
+[18-Nov-2019 11:06:49.328] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:49.758] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:50.201] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:50.634] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:51.062] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:51.489] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:51.945] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:52.378] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:52.820] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:53.250] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:53.677] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:54.103] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:54.532] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:54.961] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:55.391] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:55.820] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:56.248] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:56.677] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:57.104] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:57.532] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:57.962] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:58.391] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:58.821] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:59.251] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:06:59.681] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:07:00.111] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:07:00.540] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:07:00.969] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:07:01.397] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:07:01.827] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:07:02.256] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:07:02.685] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:07:03.112] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:07:03.539] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:07:03.969] VAfound: true (distanceVA=3147.0, position=right, scenetype=bathroom), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:07:04.398] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:07:26.365] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 11:07:33.647] VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[18-Nov-2019 11:07:53.339] VAfound: true (distanceVA=1333.0, position=right, scenetype=office), IBfound: true (distanceIB=near)
+[18-Nov-2019 11:07:53.340] ########## END ##########
+
+[18-Nov-2019 11:13:22.793] ########## SEARCHING FOR ENTITY(o): book ##########
+[18-Nov-2019 11:13:22.794] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 11:13:59.112] ########## SEARCHING FOR ENTITY(o): book ##########
+[18-Nov-2019 11:13:59.112] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 11:14:46.478] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:14:46.530] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:14:48.216] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[18-Nov-2019 11:14:48.279] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[18-Nov-2019 11:14:48.646] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:14:48.714] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:23.522] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:23.568] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:23.956] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:24.012] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:24.379] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:24.445] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:24.870] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:24.870] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:25.311] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:25.326] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:25.751] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:25.784] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:26.182] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:26.216] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:26.640] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:26.664] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:27.071] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:27.102] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:27.606] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:27.670] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:28.046] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:28.101] 3VAfound: true (distanceVA=3364.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:28.501] 3VAfound: true (distanceVA=1613.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:28.536] 3VAfound: true (distanceVA=1613.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:28.931] 3VAfound: true (distanceVA=1613.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:28.976] 3VAfound: true (distanceVA=1613.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:29.410] 3VAfound: true (distanceVA=1613.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:29.418] 3VAfound: true (distanceVA=1613.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:29.844] 3VAfound: true (distanceVA=1613.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:29.872] 3VAfound: true (distanceVA=1613.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:30.344] 3VAfound: true (distanceVA=1613.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:30.354] 3VAfound: true (distanceVA=1613.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:30.788] 3VAfound: true (distanceVA=1613.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:30.788] 3VAfound: true (distanceVA=1613.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:31.250] 3VAfound: true (distanceVA=1613.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:31.260] 3VAfound: true (distanceVA=1613.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:31.694] 3VAfound: true (distanceVA=1613.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:31.710] 3VAfound: true (distanceVA=1613.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:32.127] 3VAfound: true (distanceVA=1613.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:32.153] 3VAfound: true (distanceVA=1613.0, position=right, scenetype=staircase), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:32.625] 3VAfound: true (distanceVA=855.0, position=left, scenetype=dining room), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:32.636] 3VAfound: true (distanceVA=855.0, position=left, scenetype=dining room), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:33.064] 3VAfound: true (distanceVA=855.0, position=left, scenetype=dining room), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:33.069] 3VAfound: true (distanceVA=855.0, position=left, scenetype=dining room), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:33.514] 3VAfound: true (distanceVA=1344.0, position=right, scenetype=corridor), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:33.526] 3VAfound: true (distanceVA=1344.0, position=right, scenetype=corridor), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:33.944] 3VAfound: true (distanceVA=1344.0, position=right, scenetype=corridor), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:33.957] 3VAfound: true (distanceVA=1344.0, position=right, scenetype=corridor), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:34.445] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:34.448] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:34.905] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:34.920] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:35.335] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:35.349] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:35.778] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:35.795] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:36.209] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:36.213] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:36.639] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:36.640] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:37.067] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:37.068] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:37.503] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:37.519] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:37.945] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:37.964] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:38.376] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:38.402] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:38.808] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:38.838] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:39.243] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:39.282] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:39.685] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:39.719] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:40.117] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:40.155] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:40.558] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:40.600] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:40.986] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:41.041] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:41.413] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:41.480] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:41.846] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:41.924] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:42.282] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:42.352] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:42.723] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:42.784] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:43.152] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:43.220] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:43.598] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:43.656] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:44.043] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:44.087] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:44.484] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:44.525] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:44.925] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:44.966] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:45.367] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:45.404] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:45.809] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:45.877] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:46.251] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:46.313] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:46.693] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:46.754] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:47.135] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:47.195] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:47.578] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:47.636] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:48.022] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:48.071] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:48.457] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:48.520] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:48.911] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:48.953] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:49.342] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:49.381] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:49.773] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:49.810] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:50.203] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:50.240] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:50.631] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:50.671] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:51.062] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:51.098] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:51.491] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:51.528] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:51.919] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:51.973] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:52.361] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:52.401] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:52.791] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:52.824] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:53.218] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:53.258] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:53.648] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:53.692] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:54.078] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:54.119] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:54.507] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:54.546] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:54.936] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:54.990] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:55.423] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:55.435] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:55.853] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:55.855] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:56.283] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:56.285] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:56.713] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:56.713] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:57.138] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:57.142] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:57.567] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:57.570] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:57.997] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:57.997] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:15:58.425] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=near)
+[18-Nov-2019 11:15:58.425] ########## END ##########
+
+[18-Nov-2019 11:15:58.455] 3VAfound: true (distanceVA=2600.0, position=right, scenetype=shower), IBfound: true (distanceIB=near)
+[18-Nov-2019 11:15:58.455] ########## END ##########
+
+[18-Nov-2019 11:43:26.551] ########## SEARCHING FOR ENTITY(o): book ##########
+[18-Nov-2019 11:43:26.552] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 11:43:26.993] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[18-Nov-2019 11:44:56.023] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 11:45:12.788] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[18-Nov-2019 11:45:13.240] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[18-Nov-2019 11:45:13.668] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:45:14.538] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[18-Nov-2019 11:45:14.966] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:46:11.360] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 11:46:29.788] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[18-Nov-2019 11:46:30.229] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[18-Nov-2019 11:46:30.657] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:46:31.499] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[18-Nov-2019 11:46:31.932] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:47:52.192] 3VAfound: true (distanceVA=1398.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:48:11.024] 4VAfound: true (distanceVA=2214.0, position=right, scenetype=kitchen), IBfound: false (distanceIB=null)
+[18-Nov-2019 11:49:10.646] 3VAfound: true (distanceVA=2256.0, position=right, scenetype=kitchen), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:49:27.564] 2VAfound: true (distanceVA=2256.0, position=right, scenetype=kitchen), IBfound: true (distanceIB=near)
+[18-Nov-2019 11:49:44.126] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[18-Nov-2019 11:50:03.165] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 11:52:26.443] ########## SEARCHING FOR ENTITY(o): book ##########
+[18-Nov-2019 11:52:26.444] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 11:52:51.622] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:53:02.396] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 11:53:05.001] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:53:21.433] 3VAfound: true (distanceVA=1105.0, position=right, scenetype=closet), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:53:54.555] 2VAfound: true (distanceVA=2861.0, position=right, scenetype=laundromat), IBfound: true (distanceIB=near)
+[18-Nov-2019 11:53:54.555] ########## END ##########
+
+[18-Nov-2019 11:54:11.334] ########## SEARCHING FOR ENTITY(o): book ##########
+[18-Nov-2019 11:54:11.334] 1VAfound: true (distanceVA=2861.0, position=right, scenetype=laundromat), IBfound: true (distanceIB=near)
+[18-Nov-2019 11:54:11.335] ########## END ##########
+
+[18-Nov-2019 11:54:27.041] ########## SEARCHING FOR ENTITY(o): book ##########
+[18-Nov-2019 11:54:27.041] 1VAfound: true (distanceVA=2861.0, position=right, scenetype=laundromat), IBfound: true (distanceIB=near)
+[18-Nov-2019 11:54:27.042] ########## END ##########
+
+[18-Nov-2019 11:54:43.378] ########## SEARCHING FOR ENTITY(o): book ##########
+[18-Nov-2019 11:54:43.379] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[18-Nov-2019 11:55:16.513] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:55:50.256] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 11:55:52.450] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[18-Nov-2019 11:56:02.408] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 11:56:33.145] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 11:56:47.425] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[18-Nov-2019 11:56:47.426] ########## END ##########
+
+[18-Nov-2019 12:16:09.217] ########## SEARCHING FOR ENTITY(o): book ##########
+[18-Nov-2019 12:16:09.218] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 12:16:50.060] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[18-Nov-2019 12:16:50.491] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 12:17:04.015] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[18-Nov-2019 12:17:20.899] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 12:17:30.126] 3VAfound: true (distanceVA=1807.0, position=right, scenetype=pantry), IBfound: true (distanceIB=far)
+[18-Nov-2019 12:17:56.322] 4VAfound: true (distanceVA=1149.0, position=right, scenetype=basement), IBfound: false (distanceIB=null)
+[18-Nov-2019 12:18:07.530] 3VAfound: true (distanceVA=1149.0, position=right, scenetype=basement), IBfound: true (distanceIB=far)
+[18-Nov-2019 12:18:23.077] 2VAfound: true (distanceVA=1149.0, position=right, scenetype=basement), IBfound: true (distanceIB=near)
+[18-Nov-2019 12:18:23.077] ########## END ##########
+
+[18-Nov-2019 12:18:46.306] ########## SEARCHING FOR ENTITY(o): book ##########
+[18-Nov-2019 12:18:46.306] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[18-Nov-2019 12:19:00.947] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 12:19:35.668] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[18-Nov-2019 12:19:36.123] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[18-Nov-2019 12:19:51.691] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[18-Nov-2019 12:20:07.891] 3VAfound: true (distanceVA=1694.0, position=right, scenetype=shower), IBfound: true (distanceIB=immediate)
+[18-Nov-2019 12:20:07.892] ########## END ##########
+
+[18-Nov-2019 14:18:37.801] ########## SEARCHING FOR ENTITY(o): book ##########
+[18-Nov-2019 14:18:37.803] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 14:21:31.642] ########## SEARCHING FOR ENTITY(o): book ##########
+[18-Nov-2019 14:21:31.643] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Nov-2019 14:21:56.752] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 10:04:59.580] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 10:04:59.581] 1VAfound: true (distanceVA=2329.3198, position=right, scenetype=unknown), IBfound: true (distanceIB=near)
+[19-Nov-2019 10:04:59.583] ########## END ##########
+
+[19-Nov-2019 10:08:23.022] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 10:08:23.023] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:09:54.338] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 10:09:59.702] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:10:01.444] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 10:10:32.383] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:10:36.406] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 10:10:45.751] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[19-Nov-2019 10:11:10.215] 3VAfound: true (distanceVA=-1.0, position=left, scenetype=unknown), IBfound: true (distanceIB=immediate)
+[19-Nov-2019 10:11:10.215] ########## END ##########
+
+[19-Nov-2019 10:12:41.724] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 10:12:41.724] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[19-Nov-2019 10:12:59.097] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 10:13:11.586] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:13:35.323] 3VAfound: true (distanceVA=5858.639, position=right, scenetype=unknown), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:13:37.102] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:13:37.559] 3VAfound: true (distanceVA=5999.863, position=right, scenetype=unknown), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:13:57.331] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:13:58.214] 3VAfound: true (distanceVA=-1.0, position=middle, scenetype=unknown), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:14:05.140] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:16:54.413] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 10:16:54.414] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:23:00.464] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[19-Nov-2019 10:23:05.694] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 10:23:05.694] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:23:40.241] 3VAfound: true (distanceVA=5688.21, position=right, scenetype=unknown), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:24:33.005] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:24:35.758] 3VAfound: true (distanceVA=-1.0, position=left, scenetype=unknown), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:25:05.261] 2VAfound: true (distanceVA=-1.0, position=right, scenetype=unknown), IBfound: true (distanceIB=near)
+[19-Nov-2019 10:25:05.262] ########## END ##########
+
+[19-Nov-2019 10:46:01.988] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 10:46:01.989] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 10:47:35.251] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 10:47:35.253] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[19-Nov-2019 10:48:57.296] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:49:10.964] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 10:49:14.868] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:49:17.051] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 10:50:15.215] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:50:22.913] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 10:50:54.238] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:50:55.566] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 10:50:56.869] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:50:59.942] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 10:51:14.197] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:51:23.494] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 10:58:03.688] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:58:58.842] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 10:59:06.592] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 10:59:24.417] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 10:59:32.225] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:00:00.798] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:00:04.944] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:00:28.519] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:00:46.431] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:00:49.203] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:01:05.943] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:01:12.759] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:01:14.618] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:01:22.965] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:01:23.926] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:01:26.688] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:02:00.211] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:02:02.982] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:02:03.897] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:02:13.601] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:02:25.083] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:02:36.118] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:02:59.322] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 11:02:59.323] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:03:37.021] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 11:03:37.022] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:03:38.357] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:03:41.596] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:03:42.946] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:03:46.549] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:03:49.201] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:03:54.166] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:04:09.457] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:04:12.157] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:04:30.118] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:04:33.416] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:04:37.372] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:04:40.057] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:06:00.433] ########## SEARCHING FOR ENTITY(o): book ##########
+[19-Nov-2019 11:06:00.434] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[19-Nov-2019 11:07:43.196] ########## SEARCHING FOR ENTITY(o): book ##########
+[19-Nov-2019 11:07:43.196] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[19-Nov-2019 11:07:46.341] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[19-Nov-2019 11:07:50.246] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 11:07:50.247] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:08:41.394] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:08:49.863] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:09:59.563] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:10:04.006] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:10:41.415] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:10:42.782] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:10:46.394] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:10:49.518] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:11:39.652] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:11:40.580] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:11:44.616] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:11:49.605] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:12:26.802] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:12:28.622] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:14:26.875] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:14:29.679] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:14:37.819] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:14:39.173] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 11:17:41.644] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 11:17:43.904] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 13:58:03.841] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 13:58:03.843] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[19-Nov-2019 13:59:19.682] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 13:59:40.553] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 13:59:40.554] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 13:59:52.734] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 14:00:30.122] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[19-Nov-2019 14:03:37.400] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 14:03:37.400] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[19-Nov-2019 15:00:00.720] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:00:01.790] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:01:01.978] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:01:03.036] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:01:27.860] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:01:28.983] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:02:31.090] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[19-Nov-2019 15:02:32.220] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:04:23.135] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:04:25.937] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:04:29.172] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[19-Nov-2019 15:04:30.263] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:05:41.159] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[19-Nov-2019 15:05:43.320] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:07:13.723] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:07:17.035] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:07:52.071] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[19-Nov-2019 15:07:55.846] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:09:12.129] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[19-Nov-2019 15:13:57.885] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:14:05.975] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:14:35.918] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:14:45.669] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[19-Nov-2019 15:26:25.049] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[19-Nov-2019 15:31:46.659] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[19-Nov-2019 15:33:26.347] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[19-Nov-2019 15:34:44.755] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[19-Nov-2019 15:36:30.399] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:36:30.400] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[19-Nov-2019 15:37:28.910] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:37:28.911] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[19-Nov-2019 15:45:20.960] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:45:20.961] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[19-Nov-2019 15:46:47.132] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:46:47.132] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[19-Nov-2019 15:47:49.514] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:47:52.202] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:48:48.810] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:49:03.547] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[19-Nov-2019 15:49:14.322] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:49:32.399] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:49:35.232] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:49:37.059] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:49:39.339] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:49:44.390] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:49:49.809] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:49:52.075] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:50:24.106] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:50:42.892] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:51:10.387] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:51:11.293] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[19-Nov-2019 15:53:05.197] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:53:05.197] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:53:07.458] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:53:11.131] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:53:23.250] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:53:45.947] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:53:46.863] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:53:50.080] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:54:19.582] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:54:36.086] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:54:37.440] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:54:59.471] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:54:59.924] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:55:01.290] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:55:06.744] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:55:12.668] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:55:14.955] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:55:15.897] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:55:19.257] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:55:23.824] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:55:35.366] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:55:50.494] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:55:53.227] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:55:55.943] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:55:57.802] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:56:06.812] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:56:08.164] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:56:09.509] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:56:11.796] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:56:18.555] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:56:24.430] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:56:34.908] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:56:43.658] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:56:59.514] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:57:00.454] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:57:03.611] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:57:05.881] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:57:43.789] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:57:52.009] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:57:54.256] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:57:58.880] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:58:11.467] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[19-Nov-2019 15:58:18.154] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:36.199] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:36.199] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:36.657] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:36.657] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:37.132] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:37.132] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:37.581] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:37.581] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:38.065] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:38.065] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:38.511] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:38.512] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:38.948] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:38.949] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:39.421] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:39.421] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:39.860] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:39.861] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:40.326] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:40.326] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:40.786] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:40.786] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:41.259] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:41.259] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:41.719] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:41.720] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:42.186] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:42.187] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:42.618] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:42.618] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:43.068] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:43.068] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:43.514] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:43.514] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:43.974] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:43.974] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:44.414] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:44.414] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:44.855] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:44.855] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:45.344] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:45.344] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:45.765] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:45.765] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:46.222] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:46.222] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:46.685] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:46.685] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:47.169] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:47.169] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:47.590] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:47.590] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:48.087] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:48.087] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:48.543] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:48.544] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:48.980] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:48.980] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:49.462] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:49.462] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:49.922] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:49.922] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:50.373] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:50.374] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:50.807] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:50.807] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:51.261] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:51.261] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:51.754] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:51.754] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:52.208] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:52.208] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:52.631] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:52.631] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:53.098] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:53.098] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:53.599] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:53.599] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:54.022] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:54.023] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 15:59:54.454] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 15:59:54.455] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[19-Nov-2019 16:00:54.625] ########## SEARCHING FOR ENTITY(o): table ##########
+[19-Nov-2019 16:00:54.626] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:16:37.998] ########## SEARCHING FOR ENTITY(o): book ##########
+[20-Nov-2019 15:16:38.000] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Nov-2019 15:18:36.101] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[20-Nov-2019 15:19:25.162] ########## SEARCHING FOR ENTITY(o): book ##########
+[20-Nov-2019 15:19:25.163] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Nov-2019 15:26:51.263] ########## SEARCHING FOR ENTITY(o): table ##########
+[20-Nov-2019 15:26:51.264] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:27:01.501] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:27:02.856] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:28:06.662] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:28:07.550] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:28:08.498] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:28:38.009] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:29:43.208] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Nov-2019 15:31:29.999] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:33:41.247] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:33:42.730] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:35:31.187] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Nov-2019 15:37:56.717] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:39:31.269] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Nov-2019 15:41:04.743] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:41:07.533] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:42:47.397] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:42:49.722] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:44:49.726] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:44:51.596] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:48:11.390] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Nov-2019 15:49:42.220] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:49:52.929] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:50:07.337] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:50:58.506] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:51:42.302] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:51:45.073] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:51:47.902] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:52:30.816] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:52:32.197] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:52:34.082] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:52:44.547] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:52:47.382] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:52:48.304] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:53:13.612] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:53:22.065] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:53:26.719] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:53:28.146] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:54:12.081] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Nov-2019 15:55:13.531] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:55:26.167] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:55:30.952] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:55:39.048] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:55:43.284] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:55:49.111] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:55:57.143] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:56:01.851] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:56:05.153] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:56:09.429] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:56:10.818] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:56:13.695] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:57:01.511] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:57:09.623] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:57:43.862] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:57:47.222] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:57:49.097] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:57:57.212] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:58:21.335] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:58:23.263] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:58:28.413] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:59:01.449] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:59:02.863] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:59:11.218] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:59:13.106] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 15:59:16.448] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 15:59:17.893] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:00:00.900] ########## SEARCHING FOR ENTITY(o): table ##########
+[20-Nov-2019 16:00:00.901] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:00:16.666] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 16:01:52.017] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Nov-2019 16:03:02.522] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:03:21.445] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 16:03:23.690] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:03:27.649] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 16:03:38.852] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:04:04.036] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 16:04:09.998] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:04:47.280] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Nov-2019 16:05:54.043] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:06:09.356] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 16:06:19.326] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:06:55.046] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 16:07:24.898] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:07:48.267] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 16:07:50.620] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:07:56.614] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 16:07:59.331] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:08:14.515] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 16:08:24.055] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:08:24.957] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 16:08:26.312] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:08:28.086] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 16:08:49.253] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:09:21.433] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Nov-2019 16:11:18.133] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:11:49.430] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 16:12:19.440] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Nov-2019 16:14:28.383] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 16:14:49.263] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:14:58.086] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 16:15:14.336] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:15:18.402] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 16:15:29.018] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:15:31.274] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 16:15:42.573] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:15:51.716] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 16:16:22.878] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:16:42.550] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[20-Nov-2019 16:16:45.317] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[20-Nov-2019 16:17:33.063] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Mar-2020 17:20:03.625] ########## SEARCHING FOR ENTITY(o): phone ##########
+[20-Mar-2020 17:20:03.629] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Mar-2020 17:20:04.141] ########## SEARCHING FOR ENTITY(o): phone ##########
+[20-Mar-2020 17:20:04.142] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Mar-2020 17:20:04.637] ########## SEARCHING FOR ENTITY(o): phone ##########
+[20-Mar-2020 17:20:04.637] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Mar-2020 17:20:05.142] ########## SEARCHING FOR ENTITY(o): phone ##########
+[20-Mar-2020 17:20:05.143] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Mar-2020 17:20:05.650] ########## SEARCHING FOR ENTITY(o): phone ##########
+[20-Mar-2020 17:20:05.652] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Mar-2020 17:20:06.157] ########## SEARCHING FOR ENTITY(o): phone ##########
+[20-Mar-2020 17:20:06.159] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Mar-2020 17:20:06.653] ########## SEARCHING FOR ENTITY(o): phone ##########
+[20-Mar-2020 17:20:06.653] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Mar-2020 17:20:07.155] ########## SEARCHING FOR ENTITY(o): phone ##########
+[20-Mar-2020 17:20:07.156] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Mar-2020 17:31:39.031] ########## SEARCHING FOR ENTITY(o): phone ##########
+[20-Mar-2020 17:31:39.035] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Mar-2020 17:35:39.339] ########## SEARCHING FOR ENTITY(o): mug ##########
+[20-Mar-2020 17:35:39.342] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Mar-2020 17:44:44.965] ########## SEARCHING FOR ENTITY(o): chair ##########
+[20-Mar-2020 17:44:44.967] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Mar-2020 12:46:29.978] ########## SEARCHING FOR ENTITY(o): mug ##########
+[23-Mar-2020 12:46:29.985] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Mar-2020 12:46:53.449] ########## SEARCHING FOR ENTITY(p): PanosGnk ##########
+[23-Mar-2020 12:46:53.449] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[24-Mar-2020 11:40:31.084] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[24-Mar-2020 11:40:31.088] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[24-Mar-2020 11:43:23.550] ########## SEARCHING FOR ENTITY(o): book ##########
+[24-Mar-2020 11:43:23.551] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[01-Apr-2020 10:27:07.112] ########## SEARCHING FOR ENTITY(o): mug ##########
+[01-Apr-2020 10:27:07.113] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[01-Apr-2020 10:28:26.095] ########## SEARCHING FOR ENTITY(o): mug ##########
+[01-Apr-2020 10:28:26.096] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:11:40.617] ########## SEARCHING FOR ENTITY(p): PanosGnk ##########
+[09-Apr-2020 10:11:40.619] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:18:24.705] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[09-Apr-2020 10:18:24.705] 1VAfound: true (distanceVA=901.04175, position=right, scenetype=living room), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 10:18:24.715] ########## END ##########
+
+[09-Apr-2020 10:20:08.527] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[09-Apr-2020 10:20:08.528] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 10:20:21.441] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:21:03.570] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[09-Apr-2020 10:21:03.571] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:21:09.749] 4VAfound: true (distanceVA=889.5917, position=right, scenetype=unknown), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:21:09.965] 4VAfound: true (distanceVA=889.5917, position=right, scenetype=unknown), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:21:21.078] 3VAfound: true (distanceVA=890.3307, position=right, scenetype=unknown), IBfound: true (distanceIB=far)
+[09-Apr-2020 10:21:21.195] 3VAfound: true (distanceVA=890.3307, position=right, scenetype=unknown), IBfound: true (distanceIB=far)
+[09-Apr-2020 10:22:07.316] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[09-Apr-2020 10:22:07.476] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[09-Apr-2020 10:22:47.004] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:22:47.461] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:22:53.635] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[09-Apr-2020 10:22:53.775] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[09-Apr-2020 10:23:31.321] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[09-Apr-2020 10:23:31.339] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[09-Apr-2020 10:23:38.002] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[09-Apr-2020 10:23:38.010] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[09-Apr-2020 10:23:44.753] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[09-Apr-2020 10:23:44.776] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[09-Apr-2020 10:24:02.023] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:24:02.035] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:24:02.536] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[09-Apr-2020 10:24:02.545] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[09-Apr-2020 10:24:38.110] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:24:38.136] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:24:43.830] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 10:24:43.873] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 10:25:00.081] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:25:00.595] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 10:25:04.256] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:25:04.262] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:25:12.520] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 10:25:12.549] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 10:25:13.032] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:25:13.097] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:28:46.108] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[09-Apr-2020 10:28:46.108] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:31:16.276] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[09-Apr-2020 10:31:16.276] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:32:25.334] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[09-Apr-2020 10:32:25.337] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:35:52.191] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[09-Apr-2020 10:35:52.192] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:36:11.430] 4VAfound: true (distanceVA=914.9473, position=left, scenetype=office), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:36:25.008] 3VAfound: true (distanceVA=917.32263, position=left, scenetype=office), IBfound: true (distanceIB=far)
+[09-Apr-2020 10:36:54.275] 4VAfound: true (distanceVA=892.2311, position=left, scenetype=office), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:37:04.337] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:38:05.976] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[09-Apr-2020 10:38:05.977] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[09-Apr-2020 10:38:38.245] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 10:39:05.635] 3VAfound: true (distanceVA=929.5597, position=left, scenetype=living room), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 10:39:05.635] ########## END ##########
+
+[09-Apr-2020 10:41:17.707] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[09-Apr-2020 10:41:17.708] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:42:23.638] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 10:42:35.369] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[09-Apr-2020 10:43:13.250] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:43:27.321] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[09-Apr-2020 10:43:33.154] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 10:43:53.663] 3VAfound: true (distanceVA=916.8506, position=left, scenetype=unknown), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 10:43:53.663] ########## END ##########
+
+[09-Apr-2020 10:46:57.825] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[09-Apr-2020 10:46:57.826] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:53:03.406] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[09-Apr-2020 10:53:33.103] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 10:53:59.432] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[09-Apr-2020 10:54:37.891] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=near)
+[09-Apr-2020 10:54:48.738] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=far)
+[09-Apr-2020 10:54:51.386] 2VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 10:55:20.396] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:55:29.603] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 10:58:59.066] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[09-Apr-2020 10:58:59.068] 1VAfound: true (distanceVA=895.19727, position=left, scenetype=unknown), IBfound: false (distanceIB=null)
+[09-Apr-2020 10:59:10.184] 3VAfound: true (distanceVA=895.19727, position=left, scenetype=unknown), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 10:59:10.184] ########## END ##########
+
+[09-Apr-2020 11:03:00.411] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[09-Apr-2020 11:03:00.412] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 11:03:35.334] 4VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 11:05:11.418] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[09-Apr-2020 11:05:11.420] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[09-Apr-2020 11:10:38.878] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[09-Apr-2020 11:10:38.880] 1VAfound: true (distanceVA=984.1994, position=right, scenetype=living room), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 11:10:38.882] ########## END ##########
+
+[09-Apr-2020 11:17:35.578] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[09-Apr-2020 11:17:35.580] 1VAfound: true (distanceVA=869.61584, position=right, scenetype=office), IBfound: false (distanceIB=null)
+[09-Apr-2020 11:17:37.606] 3VAfound: true (distanceVA=869.7122, position=right, scenetype=office), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 11:17:37.607] ########## END ##########
+
+[09-Apr-2020 11:18:26.322] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[09-Apr-2020 11:18:26.324] 1VAfound: true (distanceVA=869.92413, position=right, scenetype=office), IBfound: true (distanceIB=immediate)
+[09-Apr-2020 11:18:26.330] ########## END ##########
+
+[13-Apr-2020 11:58:12.946] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[13-Apr-2020 11:58:12.947] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[13-Apr-2020 11:58:19.538] ########## SEARCHING FOR ENTITY INTERRUPTED ##########
+
+[07-May-2020 12:23:32.395] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[07-May-2020 12:23:32.396] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[29-Jul-2020 15:11:34.533] ########## SEARCHING FOR ENTITY(o): mug ##########
+[29-Jul-2020 15:11:34.543] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[29-Jul-2020 15:12:46.127] ########## SEARCHING FOR ENTITY(o): mug ##########
+[29-Jul-2020 15:12:46.162] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[29-Jul-2020 19:31:51.882] ########## SEARCHING FOR ENTITY(o): phone ##########
+[29-Jul-2020 19:31:51.894] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[28-Aug-2020 10:46:08.103] ########## SEARCHING FOR ENTITY(o): mug ##########
+[28-Aug-2020 10:46:08.113] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[28-Aug-2020 10:47:07.935] ########## SEARCHING FOR ENTITY(p): PanosGnk ##########
+[28-Aug-2020 10:47:07.946] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[28-Aug-2020 10:48:16.581] ########## SEARCHING FOR ENTITY(o): mug ##########
+[28-Aug-2020 10:48:16.591] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[20-Sep-2020 12:39:23.167] ########## SEARCHING FOR ENTITY(o): mug ##########
+[20-Sep-2020 12:39:23.177] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[07-Oct-2020 11:08:37.309] ########## SEARCHING FOR ENTITY(o): mug ##########
+[07-Oct-2020 11:08:37.340] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[16-Nov-2020 15:31:14.261] ########## SEARCHING FOR ENTITY(o): mug ##########
+[16-Nov-2020 15:31:14.359] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[16-Nov-2020 15:34:16.037] ########## SEARCHING FOR ENTITY(o): phone ##########
+[16-Nov-2020 15:34:16.114] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[17-Nov-2020 10:09:03.594] ########## SEARCHING FOR ENTITY(o): mug ##########
+[17-Nov-2020 10:09:03.664] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[17-Nov-2020 10:16:37.749] ########## SEARCHING FOR ENTITY(o): phone ##########
+[17-Nov-2020 10:16:37.825] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[17-Nov-2020 10:23:58.677] ########## SEARCHING FOR ENTITY(o): phone ##########
+[17-Nov-2020 10:23:58.746] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Nov-2020 13:16:05.576] ########## SEARCHING FOR ENTITY(o): mug ##########
+[23-Nov-2020 13:16:05.654] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Nov-2020 13:54:01.209] ########## SEARCHING FOR ENTITY(o): mug ##########
+[23-Nov-2020 13:54:01.289] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Nov-2020 13:54:36.336] ########## SEARCHING FOR ENTITY(o): mug ##########
+[23-Nov-2020 13:54:36.415] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Nov-2020 13:55:01.696] ########## SEARCHING FOR ENTITY(o): mug ##########
+[23-Nov-2020 13:55:01.778] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Nov-2020 13:55:42.991] ########## SEARCHING FOR ENTITY(o): mug ##########
+[23-Nov-2020 13:55:43.081] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Nov-2020 14:02:33.429] ########## SEARCHING FOR ENTITY(o): mug ##########
+[23-Nov-2020 14:02:33.505] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Nov-2020 14:12:23.625] ########## SEARCHING FOR ENTITY(o): mug ##########
+[23-Nov-2020 14:12:23.703] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Nov-2020 14:12:53.620] ########## SEARCHING FOR ENTITY(o): phone ##########
+[23-Nov-2020 14:12:53.698] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Nov-2020 14:15:03.945] ########## SEARCHING FOR ENTITY(o): phone ##########
+[23-Nov-2020 14:15:05.076] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Nov-2020 16:48:34.027] ########## SEARCHING FOR ENTITY(o): phone ##########
+[23-Nov-2020 16:49:29.511] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[23-Nov-2020 16:59:39.973] ########## SEARCHING FOR ENTITY(o): mug ##########
+[23-Nov-2020 17:01:05.448] ########## SEARCHING FOR ENTITY(o): mug ##########
+[23-Nov-2020 17:05:36.836] ########## SEARCHING FOR ENTITY(o): mug ##########
+[23-Nov-2020 17:05:36.915] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[18-Dec-2020 11:46:02.278] ########## SEARCHING FOR ENTITY(o): mug ##########
+[18-Dec-2020 11:46:02.353] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[12-Jan-2021 14:55:28.386] ########## SEARCHING FOR ENTITY(o): mug ##########
+[12-Jan-2021 14:55:28.455] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[05-Mar-2021 11:32:03.201] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[05-Mar-2021 11:32:03.277] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)
+[08-Mar-2021 12:33:24.322] ########## SEARCHING FOR ENTITY(o): laptop ##########
+[08-Mar-2021 12:33:24.332] 1VAfound: false (distanceVA=null, position=null, scenetype=null), IBfound: false (distanceIB=null)

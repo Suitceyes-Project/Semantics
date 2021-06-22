@@ -40,17 +40,12 @@ import org.eclipse.paho.client.mqttv3.MqttCallbackExtended;
 
 public class Messaging {
 
-	//private static final String defaultServerUrl = "http://ortc-developers.realtime.co/server/2.1";
 	private static final String broker = "ssl://mqtt.ably.io:8883";
 	private static final boolean defaultIsBalancer = true;
-	//private static final String defaultApplicationKey = "c2dNjc";
-	private static final String username = "xLDdSw.QHVEQg";
-	private static final String password = "TSyIx1VpZQBj15fR";
-//	private static final String username = "ruLRjg.KAJS7g";
-//	private static final String password = "kbNeoY67LNpgS-X6";
+	private static final String username = "";
+	private static final String password = "";
 	private static final String clientId = "Ontology";
 	public static final MemoryPersistence persistence = new MemoryPersistence();
-	//private static final String defaultAuthenticationToken = "RealtimeDemo";
 	private static Proxy proxy;
 	public static final String repositoryID = "DEFAULT";
 	private static final RemoteGraphDB remoteOntology = new RemoteGraphDB(repositoryID);
@@ -142,7 +137,7 @@ public class Messaging {
 					client.subscribe("User_to_Ontology_channel");
 					client.subscribe("SVA_KBS_channel" );
 					client.subscribe("VA_Feedback_channel");
-//					client.subscribe("suitceyes/ontology/query");
+					client.subscribe("suitceyes/ontology/query");
 				} catch (MqttException e) {
 					e.printStackTrace();
 				}

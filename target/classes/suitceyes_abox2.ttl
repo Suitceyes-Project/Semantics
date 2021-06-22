@@ -1,0 +1,438 @@
+# baseURI: http://localhost/resources/suitceyes_abox
+# imports: http://localhost/resources/suitceyes_tbox
+# prefix: soa
+
+@prefix : <http://localhost/resources/suitceyes_abox#> .
+@prefix dem: <http://www.demcare.eu/ontologies/event.owl#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix seas: <https://w3id.org/seas/> .
+@prefix soa: <http://localhost/resources/suitceyes_abox#> .
+@prefix sot: <http://localhost/resources/suitceyes_tbox#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://localhost/resources/suitceyes_abox>
+  rdf:type owl:Ontology ;
+  owl:imports <http://localhost/resources/suitceyes_tbox> ;
+  owl:versionInfo "Created with TopBraid Composer" ;
+.
+soa:detection_1
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:00.233"^^xsd:dateTime ;
+  sot:hasImageName "detection_1"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;
+.
+soa:detection_2
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:01.123"^^xsd:dateTime ;
+  sot:hasImageName "detection_2"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;  
+.  
+soa:detection_3
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:02.544"^^xsd:dateTime ;
+  sot:hasImageName "detection_3"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;    
+.
+soa:detection_4
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:office ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:03.633"^^xsd:dateTime ;
+  sot:hasImageName "detection_4"^^xsd:string ;
+  sot:detectsObject soa:table;
+  sot:providedBy soa:camera_1 ;    
+.
+soa:detection_5
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:office ;
+  sot:detectsObject soa:cell_phone;
+  sot:detectsObject soa:table;
+  sot:detectsObject soa:computer;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:33:30.222"^^xsd:dateTime ;
+  sot:hasImageName "detection_5"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;
+.	
+soa:detection_6
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:00.233"^^xsd:dateTime ;
+  sot:hasImageName "detection_1"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;
+.
+soa:detection_7
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:01.123"^^xsd:dateTime ;
+  sot:hasImageName "detection_2"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;  
+.  
+soa:detection_8
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:02.544"^^xsd:dateTime ;
+  sot:hasImageName "detection_3"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;    
+.
+soa:detection_9
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:office ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:03.633"^^xsd:dateTime ;
+  sot:hasImageName "detection_4"^^xsd:string ;
+  sot:detectsObject soa:table;
+  sot:providedBy soa:camera_1 ;    
+.
+soa:detection_10
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:office ;
+  sot:detectsObject soa:cell_phone;
+  sot:detectsObject soa:table;
+  sot:detectsObject soa:computer;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:33:30.222"^^xsd:dateTime ;
+  sot:hasImageName "detection_5"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;
+.
+soa:detection_11
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:00.233"^^xsd:dateTime ;
+  sot:hasImageName "detection_1"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;
+.
+soa:detection_12
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:01.123"^^xsd:dateTime ;
+  sot:hasImageName "detection_2"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;  
+.  
+soa:detection_13
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:02.544"^^xsd:dateTime ;
+  sot:hasImageName "detection_3"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;    
+.
+soa:detection_14
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:office ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:03.633"^^xsd:dateTime ;
+  sot:hasImageName "detection_4"^^xsd:string ;
+  sot:detectsObject soa:table;
+  sot:providedBy soa:camera_1 ;    
+.
+soa:detection_15
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:office ;
+  sot:detectsObject soa:cell_phone;
+  sot:detectsObject soa:table;
+  sot:detectsObject soa:computer;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:33:30.222"^^xsd:dateTime ;
+  sot:hasImageName "detection_5"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;
+.	
+soa:detection_16
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:00.233"^^xsd:dateTime ;
+  sot:hasImageName "detection_1"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;
+.
+soa:detection_17
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:01.123"^^xsd:dateTime ;
+  sot:hasImageName "detection_2"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;  
+.  
+soa:detection_18
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:02.544"^^xsd:dateTime ;
+  sot:hasImageName "detection_3"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;    
+.
+soa:detection_19
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:office ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:03.633"^^xsd:dateTime ;
+  sot:hasImageName "detection_4"^^xsd:string ;
+  sot:detectsObject soa:table;
+  sot:providedBy soa:camera_1 ;    
+.
+soa:detection_20
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:office ;
+  sot:detectsObject soa:cell_phone;
+  sot:detectsObject soa:table;
+  sot:detectsObject soa:computer;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:33:30.222"^^xsd:dateTime ;
+  sot:hasImageName "detection_5"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;
+.
+soa:detection_21
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:00.233"^^xsd:dateTime ;
+  sot:hasImageName "detection_1"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;
+.
+soa:detection_22
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:01.123"^^xsd:dateTime ;
+  sot:hasImageName "detection_2"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;  
+.  
+soa:detection_23
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:02.544"^^xsd:dateTime ;
+  sot:hasImageName "detection_3"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;    
+.
+soa:detection_24
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:office ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:03.633"^^xsd:dateTime ;
+  sot:hasImageName "detection_4"^^xsd:string ;
+  sot:detectsObject soa:table;
+  sot:providedBy soa:camera_1 ;    
+.
+soa:detection_25
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:office ;
+  sot:detectsObject soa:cell_phone;
+  sot:detectsObject soa:table;
+  sot:detectsObject soa:computer;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:33:30.222"^^xsd:dateTime ;
+  sot:hasImageName "detection_5"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;
+.	
+soa:detection_26
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:00.233"^^xsd:dateTime ;
+  sot:hasImageName "detection_1"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;
+.
+soa:detection_27
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:01.123"^^xsd:dateTime ;
+  sot:hasImageName "detection_2"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;  
+.  
+soa:detection_28
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:02.544"^^xsd:dateTime ;
+  sot:hasImageName "detection_3"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;    
+.
+soa:detection_29
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:office ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:03.633"^^xsd:dateTime ;
+  sot:hasImageName "detection_4"^^xsd:string ;
+  sot:detectsObject soa:table;
+  sot:providedBy soa:camera_1 ;    
+.
+soa:detection_30
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:office ;
+  sot:detectsObject soa:cell_phone;
+  sot:detectsObject soa:table;
+  sot:detectsObject soa:computer;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:33:30.222"^^xsd:dateTime ;
+  sot:hasImageName "detection_5"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;
+.
+soa:detection_31
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:00.233"^^xsd:dateTime ;
+  sot:hasImageName "detection_1"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;
+.
+soa:detection_32
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:01.123"^^xsd:dateTime ;
+  sot:hasImageName "detection_2"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;  
+.  
+soa:detection_33
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:02.544"^^xsd:dateTime ;
+  sot:hasImageName "detection_3"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;    
+.
+soa:detection_34
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:office ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:03.633"^^xsd:dateTime ;
+  sot:hasImageName "detection_4"^^xsd:string ;
+  sot:detectsObject soa:table;
+  sot:providedBy soa:camera_1 ;    
+.
+soa:detection_35
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:office ;
+  sot:detectsObject soa:cell_phone;
+  sot:detectsObject soa:computer;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:33:30.222"^^xsd:dateTime ;
+  sot:hasImageName "detection_5"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;
+.	
+soa:detection_36
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:00.233"^^xsd:dateTime ;
+  sot:hasImageName "detection_1"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;
+.
+soa:detection_37
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:01.123"^^xsd:dateTime ;
+  sot:hasImageName "detection_2"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;  
+.  
+soa:detection_38
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:corridor ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:32:02.544"^^xsd:dateTime ;
+  sot:hasImageName "detection_3"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;    
+.
+soa:detection_39
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:office ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-19T12:30:03.633"^^xsd:dateTime ;
+  sot:hasImageName "detection_4"^^xsd:string ;
+  sot:detectsObject soa:laptop;
+  sot:providedBy soa:camera_1 ;    
+.
+soa:detection_40
+  rdf:type sot:Detection ;
+  sot:detectsSemanticSpace soa:scene_unknown ;
+  sot:hasConfidence "0.77"^^xsd:float ;
+  sot:hasTimestamp "2020-10-20T12:33:30.222"^^xsd:dateTime ;
+  sot:hasImageName "detection_5"^^xsd:string ;
+  sot:providedBy soa:camera_1 ;
+.
+soa:corridor
+  rdf:type sot:SemanticSpace ;
+  rdf:type seas:Corridor ;
+  rdf:type seas:Lobby ;
+  rdfs:label "corridor" ;
+.
+soa:office
+  rdf:type sot:SemanticSpace ;
+  rdf:type seas:Office;
+  rdf:type seas:Room ;
+  rdfs:label "office" ;
+.
+
+soa:scene_unknown
+  rdf:type sot:SemanticSpace ;
+  rdfs:label "unknown" ;
+.
+
+soa:table
+  rdf:type sot:Object ;
+  rdf:type dem:Table ;
+  sot:hasOccupiedArea soa:table_occupied_area ;
+  sot:locatedInSemanticSpace soa:office ;
+  sot:hasXGridSpace soa:xgs ;
+  sot:hasSpatialContext soa:sc;
+  rdfs:label "table" ;
+.
+soa:drawer
+  rdf:type sot:Object ;
+  rdf:type sot:Drawer ;
+  sot:locatedInSemanticSpace soa:office ;
+  rdfs:label "drawer" ;
+  sot:hasXGridSpace soa:xgs ;
+  sot:hasSpatialContext soa:sc;
+.
+
+soa:door
+  rdf:type sot:Object ;
+  rdf:type sot:Door ;
+  sot:locatedInSemanticSpace soa:office ;
+  rdfs:label "door" ;
+  sot:hasXGridSpace soa:xgs ;
+  sot:hasSpatialContext soa:sc;
+.
+
+soa:xgs
+  rdf:type sot:XGridSpace ;
+  sot:positionedInXGrid "left" ;
+  sot:hasOffset "-45"^^xsd:integer ;
+.
+
+soa:sc
+  rdf:type sot:SpatialContext ;
+  sot:definesAbsoluteDistance "1542.44"^^xsd:float ;
+.
+
+soa:cell_phone
+  rdf:type sot:Object ;
+  sot:hasOccupiedArea soa:mobile_occupied_area ;
+  sot:locatedInSemanticSpace soa:office ;
+  rdfs:label "cell_phone"
+.
+soa:computer
+	rdf:type sot:Object ;
+	sot:locatedInSemanticSpace soa:office ;
+	rdfs:label "computer";
+.
+soa:camera_1
+  rdf:type sot:Camera ;
+.

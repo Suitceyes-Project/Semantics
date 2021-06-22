@@ -67,7 +67,7 @@ public class CreateRemoteRepository {
 	// Instantiate a local repository manager and initialize it
 //		RepositoryManager repositoryManager  = RepositoryProvider.getRepositoryManager(strServerUrl);
 
-		RemoteRepositoryManager repositoryManager = RemoteRepositoryManager.getInstance(strServerUrl, "vasilis", "k5ksxp10kk!");
+		RemoteRepositoryManager repositoryManager = RemoteRepositoryManager.getInstance(strServerUrl, "", "");
 //		repositoryManager.initialize();
 		repositoryManager.getAllRepositories();
 
@@ -125,19 +125,16 @@ public class CreateRemoteRepository {
 		Path path = Paths.get(".").toAbsolutePath().normalize();
 
 		CredentialsProvider credentialsProvider = new BasicCredentialsProvider();
-		UsernamePasswordCredentials creds = new UsernamePasswordCredentials("vasilis", "k5ksxp10kk!");
+		UsernamePasswordCredentials creds = new UsernamePasswordCredentials("", "");
 		credentialsProvider.setCredentials(AuthScope.ANY, creds);
 //	    CloseableHttpClient client = HttpClients.createDefault();
 		CloseableHttpClient client =
 				HttpClientBuilder.create().setDefaultCredentialsProvider(credentialsProvider).build();
 
-//	    HttpPost httpPost = new HttpPost("http://160.40.49.112:7200/repositories/mklab-suitceyes-kb-" + this.repositoryID + "/statements");
-//		HttpPost httpPost = new HttpPost("https://graphdb.certh.strdi.me:443/repositories/mklab-suitceyes-kb-" + this.repositoryID + "/statements");
-		HttpPost httpPost = new HttpPost("http://160.40.49.192:89/repositories/mklab-suitceyes-kb-" + this.repositoryID + "/statements");
-//	    HttpPost httpPost = new HttpPost("http://diamantinet.gr:23000/repositories/mklab-suitceyes-kb-DEFAULT/statements");
-//		HttpPost httpPost = new HttpPost("http://172.24.0.2:89/repositories/mklab-suitceyes-kb-" + this.repositoryID + "/statements");
-		String user = "vasilis";
-		String pwd = "k5ksxp10kk!";
+
+		HttpPost httpPost = new HttpPost("");
+		String user = "";
+		String pwd = "";
 		String encoding = Base64.getEncoder().encodeToString((user + ":" + pwd).getBytes());
 		httpPost.setHeader(HttpHeaders.AUTHORIZATION, "Basic " + encoding);
 		System.out.println("Executing Request " + httpPost.getRequestLine());

@@ -1,0 +1,1 @@
+{"image": {"target": [{"distance": -1, "width": 257, "height": 307, "left": 191, "top": 120, "confidence": 0.506, "type": "mug"}], "width": 640, "height": 480, "name": "23_11_20_13_05_14_048139", "scene_type": "scene_unknown", "timestamp": "2020-11-23T13:05:14.048", "scene_score": 0.0}}

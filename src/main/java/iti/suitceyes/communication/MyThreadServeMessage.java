@@ -213,8 +213,9 @@ public class MyThreadServeMessage extends Thread{
 //				else if (tmpMqttMessage.getTopic().contains("suitceyes/ontology/query")){
 //					System.out.println("oooooooooooooo");
 //				}
-				else if (tmpMqttMessage.getTopic().contains("User_to_Ontology_channel")){
-//				else if (tmpMqttMessage.getTopic().contains("suitceyes/ontology/query")){
+//				else if (tmpMqttMessage.getTopic().contains("User_to_Ontology_channel")){
+				else if (tmpMqttMessage.getTopic().contains("suitceyes/ontology/query")){
+					//System.out.println("bhkeeeee");
 					Map<String,String> queryAnswers = new HashMap<String,String>();
 					String interfaceQAnswer;
 					try {
@@ -258,7 +259,7 @@ public class MyThreadServeMessage extends Thread{
 							MqttMessage feedback_message = new MqttMessage(feedbackObj.toJSONString().getBytes());
 							tmpMqttMessage.getSender().publish("VA_Feedback_channel", feedback_message);
 						}
-						else if (componentResults.getQuery().equals("Where is the water bottle?"))
+						else if (componentResults.getQuery().equals("where is the water bottle?"))
 						{
 							System.out.println("bhka");
 							interfaceQAnswer = Inference.runInferenceFindLatestDetectionOfEntity(tmpMqttMessage.getRemoteOntology(), "Bottle");
@@ -328,7 +329,7 @@ public class MyThreadServeMessage extends Thread{
 							MqttMessage feedback_message = new MqttMessage(feedbackObj.toJSONString().getBytes());
 							tmpMqttMessage.getSender().publish("VA_Feedback_channel", feedback_message);
 						}
-						else if (componentResults.getQuery().equals("Where is my coffee cup?"))
+						else if (componentResults.getQuery().equals("where is my coffee cup?"))
 						{
 							System.out.println("bhka οεοεοεο");
 							interfaceQAnswer = Inference.runInferenceFindLatestDetectionOfEntity(tmpMqttMessage.getRemoteOntology(), "Cup");
@@ -430,7 +431,7 @@ public class MyThreadServeMessage extends Thread{
 							MqttMessage feedback_message = new MqttMessage(feedbackObj.toJSONString().getBytes());
 							tmpMqttMessage.getSender().publish("VA_Feedback_channel", feedback_message);
 						}
-						else if (componentResults.getQuery().equals("Where am I?"))
+						else if (componentResults.getQuery().equals("where am i?"))
 						{
 //							System.out.println("bhka2");
 							queryAnswers = Inference.runInferenceFindUserLocation(tmpMqttMessage.getRemoteOntology());

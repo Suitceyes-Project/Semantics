@@ -45,8 +45,8 @@ public class RemoteGraphDB {
 		initialiseSelectRepo();
 		initialiseUpdateRepo();
 
-		this.repository_select.setUsernameAndPassword("vasilis", "k5ksxp10kk!");
-		this.repository_update.setUsernameAndPassword("vasilis", "k5ksxp10kk!");
+		this.repository_select.setUsernameAndPassword("", "!");
+		this.repository_update.setUsernameAndPassword("", "");
 
 		this.repository_namespaces = this.repository_select.getConnection().getNamespaces();
 
@@ -61,8 +61,8 @@ public class RemoteGraphDB {
 		this.repository_select = new SPARQLRepository(Vocabulary.SPARQL_ENDPOINT_SELECT + "-" + userID);
 		this.repository_update = new SPARQLRepository(Vocabulary.SPARQL_ENDPOINT_SELECT + "-" + userID + "/statements");
 
-		this.repository_select.setUsernameAndPassword("vasilis", "k5ksxp10kk!");
-		this.repository_update.setUsernameAndPassword("vasilis", "k5ksxp10kk!");
+		this.repository_select.setUsernameAndPassword("", "!");
+		this.repository_update.setUsernameAndPassword("", "");
 
 		initialiseSelectRepo();
 		initialiseUpdateRepo();
@@ -336,9 +336,9 @@ public class RemoteGraphDB {
 				while (queryResult.hasNext()) { // iterate over the result
 //					System.out.println("query exei results");
 					BindingSet bindingSet = queryResult.next();
-					System.out.println("Interface set: " + bindingSet);
-					System.out.println(bindingSet.getValue("elabel").stringValue());
-					System.out.println(entity.toLowerCase());
+//					System.out.println("Interface set: " + bindingSet);
+//					System.out.println(bindingSet.getValue("elabel").stringValue());
+//					System.out.println(entity.toLowerCase());
 					if (bindingSet.size() != 0) {
 						Value value = bindingSet.getValue("timestamp");
 						timestamp = value.stringValue();

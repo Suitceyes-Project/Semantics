@@ -1,0 +1,53 @@
+# baseURI: http://localhost/resources/suitceyes_abox
+# imports: http://localhost/resources/suitceyes_tbox
+# prefix: soa
+
+@prefix : <http://localhost/resources/suitceyes_abox#> .
+@prefix dem: <http://www.demcare.eu/ontologies/event.owl#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix seas: <https://w3id.org/seas/> .
+@prefix soa: <http://localhost/resources/suitceyes_abox#> .
+@prefix sot: <http://localhost/resources/suitceyes_tbox#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://localhost/resources/suitceyes_abox>
+  rdf:type owl:Ontology ;
+  owl:imports <http://localhost/resources/suitceyes_tbox> ;
+  owl:versionInfo "Created with TopBraid Composer" ;
+.
+soa:corridor
+  rdf:type sot:SemanticSpace ;
+  rdf:type seas:Corridor ;
+  rdf:type seas:Lobby ;
+  rdfs:label "corridor" ;
+.
+soa:office
+  rdf:type sot:SemanticSpace ;
+  rdf:type seas:Office;
+  rdf:type seas:Room ;
+  rdfs:label "office" ;
+.
+soa:table
+  rdf:type sot:Object ;
+  rdf:type dem:Table ;
+  sot:hasOccupiedArea soa:table_occupied_area ;
+  sot:locatedInSemanticSpace soa:office ;
+  rdfs:label "table" ;
+.
+soa:cell_phone
+  rdf:type sot:Object ;
+  sot:hasOccupiedArea soa:mobile_occupied_area ;
+  sot:locatedInSemanticSpace soa:office ;
+  rdfs:label "cell_phone"
+.
+soa:computer
+	rdf:type sot:Object ;
+	sot:locatedInSemanticSpace soa:office ;
+	rdfs:label "computer";
+.
+soa:camera_1
+  rdf:type sot:Sensor ;
+.
