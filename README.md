@@ -9,7 +9,7 @@ The Semantics application is developed in JAVA version 11.
 Additional requirements that will have to be intalled or have an account created, are also listed.
 
 Ably framework: A a pub/sub messaging broker for web and mobile apps. Account is required.  
-GraphDB repo: GraphDB is an enterprise ready Semantic Graph Database, compliant with W3C Standards. Further instructions on how to install GraphDB can be found in the requirements.txt.  
+GraphDB repo: GraphDB is an enterprise ready Semantic Graph Database, compliant with W3C Standards. Further instructions on how to install GraphDB can be found in instructionsGrabhDBSuitceyes.docx.  
 
 # Contact
 For further details and for access to the developed models, please contact Vasileios Kassiano (vaskass@iti.gr).
